@@ -81,16 +81,25 @@
   <!-- Contact Section -->
   <section id="contact" style="padding: 2rem;">
     <div class="contact-card">
-      <h2>Let's Connect</h2>
-      <p>I’m Chante—an Instructional Designer and Web Developer passionate about creating accessible, learner-centered training experiences. I’m open to remote, hybrid, and in-person roles, especially in the Austin–Killeen area or with organizations that value inclusive design and professional development.</p>
+     <section id="about">
+  <h2>👩🏽‍💻 About Me</h2>
+  <p>I’m Chante Johns—an Instructional Designer and Web Developer with over 13 years of experience crafting learner-centered, accessible training solutions for adult learners across government, healthcare, and technical sectors. I specialize in transforming complex content into clear, engaging digital experiences that empower users and support organizational goals.</p>
 
+  <p>I hold a <strong>Master of Arts in Learning, Design, and Technology</strong> from Point Park University (Graduating with Honors, April 2025), a <strong>Bachelor of Science in Computer Science</strong> (2020), and an <strong>Associate of Science in Computer Information Systems</strong> (2017). My academic foundation blends instructional theory with technical fluency, allowing me to build scalable, inclusive learning environments that meet diverse needs.</p>
+
+  <h3>💡 Skills & Expertise</h3>
+  <ul>
+    <li>Instructional Design & Curriculum Development for adult learners</li>
+    <li>Front-End Web Development: HTML, CSS, Bootstrap, jQuery, and responsive design</li>
+    <li>Accessibility & Inclusion: WCAG compliance, alt text optimization, keyboard navigation, and plain language writing</li>
+    <li>Technical Communication: Clear documentation, learner guidance, and stakeholder collaboration</li>
+    <li>Authoring Tools: Articulate 360, Rise, SharePoint, and Microsoft 365</li>
       <ul style="list-style: none; padding-left: 0;">
         <li><strong>Email:</strong> chantej1986@gmail.com  
           <br>
           <a href="mailto:chantej1986@gmail.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">Email Me</a>
         </li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
-        <li><strong>Portfolio:</strong> <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank">cjohns4.github.io/ECON-Module-Columbia</a></li>
         <li><strong>Location:</strong> Austin–Killeen, TX area</li>
       </ul>
 
