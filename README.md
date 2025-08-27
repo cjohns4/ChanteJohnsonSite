@@ -1,4 +1,4 @@
-# MyPersonalWebsite
+# Code, Clarity, and Connection
 <section id="contact" style="font-family: Arial, sans-serif; padding: 2rem; background-color: #f9f9f9;">
   <h2 style="color: #333;">Let's Connect</h2>
   <p>I’m Chante—an Instructional Designer and Web Developer passionate about creating accessible, learner-centered training experiences. I’m open to remote, hybrid, and in-person roles, especially in the Austin–Killeen area or with organizations that value inclusive design and professional development.</p>
