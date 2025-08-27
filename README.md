@@ -131,22 +131,22 @@
   <ul style="list-style: none; padding-left: 0;">
     <li>
       <a href="DelegationofProcurementAuthority.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🗂️ Delegation of Procurement Authority (PPTX)
+        🗂️ Delegation of Procurement Authority 
       </a>
     </li>
     <li>
       <a href="Fivebenefitsofmobilelearningforadults.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📱 Five Benefits of Mobile Learning for Adults (PPTX)
+        📱 Five Benefits of Mobile Learning for Adults 
       </a>
     </li>
     <li>
       <a href="Waystoimprovepublicspeaking.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🎤 Ways to Improve Public Speaking (PPTX)
+        🎤 Ways to Improve Public Speaking 
       </a>
     </li>
     <li>
       <a href="dohexternalfacilityaccountfacilityadminslidesintroandconclusion.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🏥 DOH External Facility Admin Slides – Intro & Conclusion (PPTX)
+        🏥 DOH External Facility Admin Slides – Intro & Conclusion 
       </a>
     </li>
   </ul>
@@ -155,7 +155,7 @@
   <ul style="list-style: none; padding-left: 0;">
     <li>
       <a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🧠 Your Thoughts and Feelings (PDF)
+        🧠 Your Thoughts and Feelings 
       </a>
     </li>
   </ul>
