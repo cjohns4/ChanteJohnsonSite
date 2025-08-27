@@ -72,12 +72,11 @@
   <a href="#contact">Contact</a>
 </nav>
   <!-- Hero Banner -->
-  <section id="hero" style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
-  <section style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
-    <h1 style="margin-bottom: 0.5rem;">Code, Clarity, and Connection</h1>
-    <p style="font-size: 1.1rem;">Empowering learners through accessible design</p>
-  </section>
-
+  <!-- Hero Banner -->
+<section id="hero" style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
+  <h1 style="margin-bottom: 0.5rem;">Code, Clarity, and Connection</h1>
+  <p style="font-size: 1.1rem;">Empowering learners through accessible design</p>
+</section>
   <!-- Contact Section -->
   <section id="contact" style="padding: 2rem;">
     <div class="contact-card">
@@ -87,22 +86,24 @@
 
   <p>I hold a <strong>Master of Arts in Learning, Design, and Technology</strong> from Point Park University (Graduating with Honors, April 2025), a <strong>Bachelor of Science in Computer Science</strong> (2020), and an <strong>Associate of Science in Computer Information Systems</strong> (2017). My academic foundation blends instructional theory with technical fluency, allowing me to build scalable, inclusive learning environments that meet diverse needs.</p>
 
-  <h3>💡 Skills & Expertise</h3>
-  <ul>
-    <li>Instructional Design & Curriculum Development for adult learners</li>
-    <li>Front-End Web Development: HTML, CSS, Bootstrap, jQuery, and responsive design</li>
-    <li>Accessibility & Inclusion: WCAG compliance, alt text optimization, keyboard navigation, and plain language writing</li>
-    <li>Technical Communication: Clear documentation, learner guidance, and stakeholder collaboration</li>
-    <li>Authoring Tools: Articulate 360, Rise, SharePoint, and Microsoft 365</li>
-      <ul style="list-style: none; padding-left: 0;">
-        <li><strong>Email:</strong> chantej1986@gmail.com  
-          <br>
-          <a href="mailto:chantej1986@gmail.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">Email Me</a>
-        </li>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
-        <li><strong>Location:</strong> Austin–Killeen, TX area</li>
-      </ul>
+<h3>💡 Skills & Expertise</h3>
+<ul>
+  <li>Instructional Design & Curriculum Development for adult learners</li>
+  <li>Front-End Web Development: HTML, CSS, Bootstrap, jQuery, and responsive design</li>
+  <li>Accessibility & Inclusion: WCAG compliance, alt text optimization, keyboard navigation, and plain language writing</li>
+  <li>Technical Communication: Clear documentation, learner guidance, and stakeholder collaboration</li>
+  <li>Authoring Tools: Articulate 360, Rise, SharePoint, and Microsoft 365</li>
+</ul>
 
+<!-- Contact Info -->
+<ul style="list-style: none; padding-left: 0;">
+  <li><strong>Email:</strong> chantej1986@gmail.com  
+    <br>
+    <a href="mailto:chantej1986@gmail.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">Email Me</a>
+  </li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
+  <li><strong>Location:</strong> Austin–Killeen, TX area</li>
+</ul>
       <p style="margin-top: 1rem;">Let’s build something learner-centered, accessible, and impactful together.</p>
     </div>
   </section>
