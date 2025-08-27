@@ -65,12 +65,6 @@
 
 <body>
 
-  <!-- Navigation -->
-<nav>
-  <a href="#hero">Home</a>
-  <a href="#projects">Projects</a>
-  <a href="#contact">Contact</a>
-</nav>
   <!-- Hero Banner -->
   <!-- Hero Banner -->
 <section id="hero" style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
