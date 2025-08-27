@@ -65,8 +65,8 @@
 
 <body>
 
-  <!-- Hero Banner -->
-  <!-- Hero Banner -->
+  <!-- ChanteJohnson -->
+  
 <section id="hero" style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
   <h1 style="margin-bottom: 0.5rem;">Code, Clarity, and Connection</h1>
   <p style="font-size: 1.1rem;">Empowering learners through accessible design</p>
@@ -96,6 +96,9 @@
     <br>
     <a href="mailto:chantej1@yahoo.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">Email Me</a>
   </li>
+  <a href="ChanteJohnson.pdf" target="_blank" style="display: inline-block; margin-top: 1rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">
+  📄 View My Resume (PDF)
+</a>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
   <li><strong>Location:</strong> Austin–Killeen, TX area</li>
 </ul>
