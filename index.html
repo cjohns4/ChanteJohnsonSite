@@ -98,9 +98,9 @@
 
 <!-- Contact Info -->
 <ul style="list-style: none; padding-left: 0;">
-  <li><strong>Email:</strong> chantej1986@gmail.com  
+  <li><strong>Email:</strong> chantej1@yahoo.com  
     <br>
-    <a href="mailto:chantej1986@gmail.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">Email Me</a>
+    <a href="mailto:chantej1@yahoo.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">Email Me</a>
   </li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
   <li><strong>Location:</strong> Austin–Killeen, TX area</li>
