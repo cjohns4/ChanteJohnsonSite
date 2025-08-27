@@ -66,13 +66,13 @@
 <body>
 
   <!-- Navigation -->
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="projects.html">Projects</a>
-    <a href="contact.html">Contact</a>
-  </nav>
-
+<nav>
+  <a href="#hero">Home</a>
+  <a href="#projects">Projects</a>
+  <a href="#contact">Contact</a>
+</nav>
   <!-- Hero Banner -->
+  <section id="hero" style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
   <section style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
     <h1 style="margin-bottom: 0.5rem;">Code, Clarity, and Connection</h1>
     <p style="font-size: 1.1rem;">Empowering learners through accessible design</p>
