@@ -132,14 +132,14 @@
   <h3 style="color: #333; margin-top: 2rem;">Downloadable PDF</h3>
   <ul style="list-style: none; padding-left: 0;">
     <li>
-      <a href="DelegationofProcurementAuthority.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
+      <a href="Leveraging.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
         🗂️ Delegation of Procurement Authority 
       </a>
     </li>
   <h3 style="color: #333; margin-top: 2rem;">Downloadable PDF</h3>
   <ul style="list-style: none; padding-left: 0;">
     <li>
-      <a href="Fivebenefitsofmobilelearningforadults.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
+      <a href="Five.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
         📱 Five Benefits of Mobile Learning for Adults 
       </a>
     </li>
