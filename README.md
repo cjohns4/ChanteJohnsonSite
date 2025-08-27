@@ -126,8 +126,9 @@
 <!-- PowerPoint Presentations -->
 <div style="flex: 1; min-width: 280px; background-color: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
   <h3 style="color: #333;">Instructional Presentations</h3>
-  <p>Slide decks created for adult learners, covering topics like accessibility, SharePoint training, and instructional strategy. Designed with clarity and engagement in mind.</p>
-  
+ <p>
+  A curated collection of slide decks designed for adult learners in professional settings. Topics include procurement authority, mobile learning strategies, public speaking skills, and administrative onboarding for healthcare facilities. Each presentation emphasizes clarity, accessibility, and practical application—ideal for training, workshops, or self-paced learning.
+</p>
   <ul style="list-style: none; padding-left: 0;">
   <h3 style="color: #333; margin-top: 2rem;">Downloadable PDF</h3>
   <ul style="list-style: none; padding-left: 0;">
