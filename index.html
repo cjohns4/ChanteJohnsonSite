@@ -86,7 +86,7 @@
   <p>I’m Chante Johnson—an Instructional Designer and Web Developer with over 13 years of experience crafting learner-centered, accessible training solutions for adult learners across government, healthcare, and technical sectors. I specialize in transforming complex content into clear, engaging digital experiences that empower users and support organizational goals.</p>
 
   <p>I hold a <strong>Master of Arts in Learning, Design, and Technology</strong> from Point Park University (Graduating with Honors, April 2025), a <strong>Bachelor of Science in Computer Science</strong> (2020), and an <strong>Associate of Science in Computer Information Systems</strong> (2017). My academic foundation blends instructional theory with technical fluency, allowing me to build scalable, inclusive learning environments that meet diverse needs.</p>
-
+<div style="clear: both;"></div>
 <h3>💡 Skills & Expertise</h3>
 <ul>
   <li>Instructional Design & Curriculum Development for adult learners</li>
