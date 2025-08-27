@@ -6,12 +6,12 @@
   <title>Chante Johnson – Instructional Designer & Web Developer</title>
   <style>
     body {
-      background-color: #f0f4f8;
-      color: #333333;
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
+  background-color: #f0f4f8;
+  color: #1a1a1a; /* Darker gray for stronger contrast */
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
     nav {
       background-color: #0078D4;
