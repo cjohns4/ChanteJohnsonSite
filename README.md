@@ -56,7 +56,6 @@ h2 {
   text-decoration: underline;
   color: #E67E22;
 }
-body {
   background-image: url('backgro.png'); /* or 'border.jpg' if in root */
   background-repeat: no-repeat;
   background-position: center;
