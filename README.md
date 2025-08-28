@@ -72,10 +72,10 @@ h2 {
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; padding: 3rem 2rem; max-width: 1200px; margin: auto;">
   
   <!-- Bio Text -->
-  <div style="flex: 1; min-width: 300px; padding-right: 2rem;">
-    <h1>Hi, I’m Chante Johnson</h1>
-    <p><strong>Instructional Designer & Web Developer</strong> who believes learning should feel empowering, not overwhelming.  
-    Based in the Austin–Killeen, TX area, I specialize in creating training experiences that are clear, accessible, and genuinely useful for adult learners.</p>
+  <section style="padding: 2rem; max-width: 900px; margin: auto;">
+  <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Hi, I’m Chante Johnson</h1>
+  <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
+    <p><strong>Instructional Designer & Web Developer</strong> who believes learning should feel empowering, not overwhelming. Based in the Austin–Killeen, TX area, I specialize in creating training experiences that are clear, accessible, and genuinely useful for adult learners.</p>
 
     <p>Whether I’m building onboarding modules for healthcare teams or refining layouts for technical platforms, I focus on making content that respects people’s time and supports their growth.</p>
 
@@ -83,6 +83,7 @@ h2 {
 
     <p>I’m also a lifelong learner myself. I’m currently earning my Master’s in Learning, Design, and Technology (graduating with honors in April 2025), and I love collaborating with teams who value clarity, inclusion, and continuous improvement.</p>
   </div>
+</section>
 
   <!-- Profile Photo -->
   <div style="flex: 1; min-width: 280px; text-align: center;">
