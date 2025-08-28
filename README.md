@@ -76,25 +76,24 @@
 </head>
 <body>
 
-  <!-- Navigation -->
-  <nav class="top-nav" role="navigation" aria-label="Main navigation">
-    <div class="nav-container">
-      <div class="brand">Chante Johnson</div>
-      <ul class="nav-links">
-        <li><a href="#about">About</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#resume">Resume</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </div>
-  </nav>
+    <!-- Navigation -->
+<nav class="top-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-container">
+    <div class="brand">Chante Johnson</div>
+    <ul class="nav-links">
+      <li><a href="index.html">About</a></li>
+      <li><a href="Projects.html">Projects</a></li>
+      <li><a href="Experience.html">Experience</a></li>
+      <li><a href="Contact.html">Contact</a></li>
+    </ul>
+  </div>
+</nav>
 
 <!-- Banner  -->
     <div class="banner"></div>
 
-  <!-- Main Content -->
-  <section id="about">...</section>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; padding: 3rem 2rem; max-width: 1200px; margin: auto; gap: 2rem;">
+<!-- Main Content -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; padding: 3rem 2rem; max-width: 1200px; margin: auto; gap: 2rem;">
 
     <!-- Bio Text -->
   <div style="flex: 1; min-width: 300px;">
@@ -114,8 +113,7 @@
 <!-- Banner  -->
    <div class="banner"></div>
 
-<!-- Projects -->
-     <section id="portfolio">...</section>
+<!-- Projects -->  
   <h2>💼 Projects</h2>
   
   <h3>📊 Instructional Presentations</h3>
@@ -149,7 +147,6 @@
     <div class="banner"></div>
   
 <!-- Resume -->
-  <section id="resume">...</section>
   <h2>📄 Experience</h2>
   <p><a href="ChanteJohnson.pdf" target="_blank" style="
   display: inline-block;
@@ -170,7 +167,6 @@
     <div class="banner"></div>
   
 <!-- Contact -->
-  <section id="contact">...</section>
   <h2>📬 Contact</h2>
   <ul>
     <li><strong>Email:</strong> <a href="mailto:chantej1@yahoo.com">chantej1@yahoo.com</a></li>
