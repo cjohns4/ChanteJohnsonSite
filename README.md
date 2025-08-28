@@ -137,7 +137,18 @@ h2 {
 
   <!-- Resume -->
   <h2>📄 Experience</h2>
-  <p><a href="ChanteJohnson.pdf" target="_blank" style="background-color: #0078D4; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">View My Resume</a></p>
+  <p><a href="ChanteJohnson.pdf" target="_blank" style="
+  display: inline-block;
+  background-color: #D35400;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 1rem;
+">
+  📄 Download Resume
+</a></p>
 
   <hr>
 
