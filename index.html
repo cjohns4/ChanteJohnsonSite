@@ -56,14 +56,27 @@ h2 {
   text-decoration: underline;
   color: #E67E22;
 }
-  background-image: url('backgro.png'); 
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  padding: 2rem;
+  position: relative;
   margin: 0;
+  padding: 2rem;
+  background-color: #fff8f0;
   font-family: 'Segoe UI', sans-serif;
   color: #1a1a1a;
+  z-index: 0;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('backgro.png'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  pointer-events: none; 
+  z-index: -1;
 }
 
   </style>
