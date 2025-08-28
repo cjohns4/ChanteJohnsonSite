@@ -109,37 +109,26 @@
   </nav>
 
   <!-- Main Content -->
-  <div class="container">
-    <div class="text-section">
-      <section class="bio-section" style="padding: 2rem; max-width: 800px; margin: auto;">
-  <h1 style="color: #0078D4;">Hi, I’m Chante Johnson</h1>
-  <p style="font-size: 1.1rem; line-height: 1.6;">
-    <strong>Instructional Designer & Web Developer</strong> who believes learning should feel empowering, not overwhelming.
-    Based in the Austin–Killeen, TX area, I specialize in creating training experiences that are clear, accessible, and genuinely useful for adult learners.
-    Whether I’m building onboarding modules for healthcare teams or refining layouts for technical platforms, I focus on making content that respects people’s time and supports their growth.
-  </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; padding: 3rem 2rem; max-width: 1200px; margin: auto;">
+  
+  <!-- Bio Text -->
+  <div style="flex: 1; min-width: 300px; padding-right: 2rem;">
+    <h1 style="color: #0078D4;">Hi, I’m Chante Johnson</h1>
+    <p><strong>Instructional Designer & Web Developer</strong> who believes learning should feel empowering, not overwhelming.  
+    Based in the Austin–Killeen, TX area, I specialize in creating training experiences that are clear, accessible, and genuinely useful for adult learners.</p>
 
-  <p style="font-size: 1.1rem; line-height: 1.6;">
-    I bring over 13 years of experience across government, healthcare, and corporate sectors, blending instructional theory with hands-on tech skills.
-    I’m fluent in HTML, CSS, and responsive design, and I care deeply about accessibility—from alt text to keyboard navigation to plain language writing.
-  </p>
+    <p>Whether I’m building onboarding modules for healthcare teams or refining layouts for technical platforms, I focus on making content that respects people’s time and supports their growth.</p>
 
-  <p style="font-size: 1.1rem; line-height: 1.6;">
-    I’m also a lifelong learner myself. I’m currently earning my Master’s in Learning, Design, and Technology (graduating with honors in April 2025),
-    and I love collaborating with teams who value clarity, inclusion, and continuous improvement.
-  </p>
+    <p>I bring over 13 years of experience across government, healthcare, and corporate sectors, blending instructional theory with hands-on tech skills. I’m fluent in HTML, CSS, and responsive design, and I care deeply about accessibility—from alt text to keyboard navigation to plain language writing.</p>
 
-  <p style="font-size: 1.1rem; line-height: 1.6;">
-    If you’re looking for someone who can turn complex ideas into learner-friendly experiences—and make the process feel smooth and thoughtful—I’d love to connect.
-  </p>
-</section>
+    <p>I’m also a lifelong learner myself. I’m currently earning my Master’s in Learning, Design, and Technology (graduating with honors in April 2025), and I love collaborating with teams who value clarity, inclusion, and continuous improvement.</p>
+  </div>
 
-    </div>
-
-     <!-- Profile Photo -->
+  <!-- Profile Photo -->
   <div style="flex: 1; min-width: 280px; text-align: center;">
     <img src="polish.png" alt="Chante Johnson smiling in a professional setting" style="width: 280px; max-width: 100%; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </div>
+
 </div>
 
 
