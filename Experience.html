@@ -6,12 +6,12 @@
   <title>Chante Johnson – Instructional Designer & Web Developer</title>
   <style>
     body {
-  background-color: #f0f4f8;
-  color: #1a1a1a; /* Darker gray for stronger contrast */
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 0;
-}
+      background-color: #f0f4f8;
+      color: #1a1a1a;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
 
     nav {
       background-color: #0078D4;
@@ -34,37 +34,54 @@
       color: #0078D4;
       border-bottom: 2px solid #FFD166;
       padding-bottom: 0.3rem;
+      margin-top: 2rem;
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
+    .experience-section {
+      padding: 2rem;
+      background-color: #ffffff;
+      max-width: 800px;
+      margin: auto;
     }
 
-    #contact {
-      animation: fadeIn 1s ease-out;
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
     }
 
-    .contact-card {
-      background-color: white;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-
-    .contact-card a {
-      color: #0078D4;
+    .resume-button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: #0078D4;
+      color: white;
       text-decoration: none;
+      border-radius: 4px;
     }
 
-    .contact-card a:hover {
-      text-decoration: underline;
+    .resume-button:hover {
+      background-color: #005A9E;
     }
   </style>
 </head>
-<nav>
-  <a href="Home.html">Home</a>
-  <a href="Projects.html">Projects</a>
-  <a href="ChanteJohnson.pdf" target="_blank">Experience</a>
-  <a href="Contact.html">Contact</a>
-</nav>
+<body>
+
+  <!-- Navigation -->
+  <nav>
+    <a href="Home.html">Home</a>
+    <a href="Projects.html">Projects</a>
+    <a href="ChanteJohnson.pdf" target="_blank">Experience</a>
+    <a href="Contact.html">Contact</a>
+  </nav>
+
+  <!-- Experience Section -->
+  <section class="experience-section">
+    <h2>📄 Professional Experience</h2>
+    <p>
+      I’ve led instructional design and technical training initiatives across healthcare, government, and corporate sectors. My resume outlines over 13 years of experience developing accessible, learner-centered modules, facilitating workshops, and building responsive training sites using HTML, CSS, and Bootstrap.
+    </p>
+    <a href="ChanteJohnson.pdf" target="_blank" class="resume-button">View My Resume (PDF)</a>
+  </section>
+
+</body>
+</html>
