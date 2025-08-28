@@ -60,7 +60,7 @@
 }
 
 .nav-links a {
-  color: #f5f5f5;
+  color: #880E4F;
   text-decoration: none;
   font-size: 1rem;
   font-weight: 600;
