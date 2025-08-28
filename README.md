@@ -75,7 +75,7 @@ h2 {
   <div style="flex: 1; min-width: 300px;">
     <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Rooted in Resilience</h1>
     <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
-      <p>I'm Chante Johnson, a tech-savvy learning designer with a background in computer science and a passion for building meaningful digital experiences. With hands-on experience across public service, healthcare, and infrastructure sectors, I specialize in creating user-centered solutions that blend technical precision with creative insight. I'm currently expanding my impact through teaching and certification, driven by a commitment to equity, innovation, and lifelong learning.</p>
+      <p>I’m Chante Johnson, a technologist and learning experience designer with a Master of Arts in Learning, Design, and Technology and a Bachelor of Science in Computer Science. My career spans public service, healthcare, HVAC, internet, and cable industries, where I’ve applied my skills to create inclusive, user-centered digital solutions. I specialize in bridging technical systems with human-centered design, and I stay up to date with emerging technologies—especially in areas like AI—by attending workshops, following industry podcasts, and engaging with thought leaders. I’m passionate about innovation, equity, and using technology to empower communities and create meaningful impact.</p>
     </div>
   </div>
 
