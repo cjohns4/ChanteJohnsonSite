@@ -56,12 +56,12 @@
     }
 
     .nav-links a {
-      color: #880E4F;
-      text-decoration: none;
-      font-size: 1rem;
-      font-weight: 600;
-      transition: color 0.3s ease;
-    }
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
 
     .nav-links a:hover,
     .nav-links a:focus {
