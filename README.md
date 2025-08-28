@@ -92,19 +92,7 @@
 
 </div>
 
-  <!-- Skills -->
-  <h2>💡 Skills & Expertise</h2>
-  <ul>
-    <li>Instructional Design & Curriculum Development for adult learners</li>
-    <li>Front-End Web Development: HTML, CSS, Bootstrap, jQuery, and responsive design</li>
-    <li>Accessibility & Inclusion: WCAG compliance, alt text optimization, keyboard navigation, and plain language writing</li>
-    <li>Technical Communication: Clear documentation, learner guidance, and stakeholder collaboration</li>
-    <li>Authoring Tools: Articulate 360, Rise, SharePoint, and Microsoft 365</li>
-  </ul>
-
-  <hr>
-
-  <!-- Projects -->
+    <!-- Projects -->
   <h2>💼 Projects</h2>
   <p>Explore my instructional design, web development, and training projects—crafted for clarity, accessibility, and learner impact.</p>
 
