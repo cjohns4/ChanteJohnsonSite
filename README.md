@@ -167,7 +167,7 @@
     <div class="banner"></div>
   
 <!-- Contact -->
-  <h2>📬 Contact</h2>
+  <h1>📬 Contact</h1>
   <ul>
     <li><strong>Email:</strong> <a href="mailto:chantej1@yahoo.com">chantej1@yahoo.com</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
