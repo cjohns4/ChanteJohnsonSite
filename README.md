@@ -94,8 +94,7 @@
 
     <!-- Projects -->
   <h2>💼 Projects</h2>
-  <p>Explore my instructional design, web development, and training projects—crafted for clarity, accessibility, and learner impact.</p>
-
+  
   <h3>📊 Instructional Presentations</h3>
   <ul>
     <li><a href="Leveraging.pptx" target="_blank">🗂️ Leveraging Procurement Authority to Advance Health Equity</a></li>
