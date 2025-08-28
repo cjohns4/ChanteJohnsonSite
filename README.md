@@ -1,167 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Chante Johnson – Instructional Designer & Web Developer</title>
-  <style>
-    body {
-  background-color: #f0f4f8;
-  color: #1a1a1a; /* Darker gray for stronger contrast */
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 0;
-}
+# Chante Johnson – Instructional Designer & Web Developer
 
-    nav {
-      background-color: #0078D4;
-      padding: 1rem;
-      text-align: center;
-    }
+Welcome to my professional portfolio! This site showcases my work in instructional design, front-end development, and accessibility-first training solutions. I specialize in creating learner-centered experiences for adult audiences across healthcare, government, and technical sectors.
 
-    nav a {
-      color: white;
-      text-decoration: none;
-      margin: 0 1rem;
-      font-weight: bold;
-    }
+## 🔗 Live Site
+[Visit the Portfolio](https://cjohns4.github.io/ChanteJohnsonSite/)
 
-    nav a:hover {
-      text-decoration: underline;
-    }
+## 🧭 Site Structure
 
-    h2 {
-      color: #0078D4;
-      border-bottom: 2px solid #FFD166;
-      padding-bottom: 0.3rem;
-    }
+### 🏠 Home (`Home.html`)
+An introduction to my instructional philosophy, technical background, and academic journey. Includes a professional headshot, summary of my skills, and highlights from my career in training and development.
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+### 💼 Projects (`Projects.html`)
+A curated collection of instructional modules, healthcare onboarding tools, and presentation materials. Each project is designed with accessibility, clarity, and learner engagement in mind.
 
-    #contact {
-      animation: fadeIn 1s ease-out;
-    }
+Featured projects include:
+- **eVitals Navigator** – Role-based healthcare training site
+- **ECON Module – Columbia** – Interactive economics module
+- **Instructional Presentations** – Slide decks on procurement, public speaking, and onboarding
+- **College Course Module** – Sample week from an instructional design course
 
-    .contact-card {
-      background-color: white;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
+### 📄 Experience (`ChanteJohnson.pdf`)
+My resume is available as a downloadable PDF, detailing over 13 years of experience in instructional design, technical training, and web development. It includes roles in government, healthcare, and corporate settings.
 
-    .contact-card a {
-      color: #0078D4;
-      text-decoration: none;
-    }
+### 📬 Contact (`Contact.html`)
+Includes my email, LinkedIn profile, and location. Visitors can reach out directly to collaborate or inquire about projects. This page also includes a personal message about my commitment to accessible, learner-centered design.
 
-    .contact-card a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
+## 🛠️ Technologies Used
+- HTML, CSS, Bootstrap
+- GitHub Pages
+- Articulate 360, Rise
+- SharePoint, Microsoft 365
+- WCAG 2.1 AA accessibility standards
 
-<body>
+## 💬 Contact
+- **Email**: [chantej1@yahoo.com](mailto:chantej1@yahoo.com)  
+- **LinkedIn**: [linkedin.com/in/chante-johnson-140171309](https://www.linkedin.com/in/chante-johnson-140171309)  
+- **Location**: Austin–Killeen, TX area
 
-  <!-- ChanteJohnson -->
-  
-<section id="hero" style="background-color: #0078D4; color: white; padding: 2rem; text-align: center;">
-  <h1 style="margin-bottom: 0.5rem;">Code, Clarity, and Connection</h1>
-  <p style="font-size: 1.1rem;">Empowering learners through accessible design</p>
-</section>
-  <!-- Contact Section -->
-  <section id="contact" style="padding: 2rem;">
-    <div class="contact-card">
-     <section id="about">
-  <h2>👩🏽‍💻 About Me</h2>
-       <img src="polish.png" alt="Chante Johnson smiling in a professional setting" style="float: left; width: 160px; border-radius: 50%; margin: 0 1.5rem 1rem 0; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <p>I’m Chante Johnson—an Instructional Designer and Web Developer with over 13 years of experience crafting learner-centered, accessible training solutions for adult learners across government, healthcare, and technical sectors. I specialize in transforming complex content into clear, engaging digital experiences that empower users and support organizational goals.</p>
+---
 
-  <p>I hold a <strong>Master of Arts in Learning, Design, and Technology</strong> from Point Park University (Graduating with Honors, April 2025), a <strong>Bachelor of Science in Computer Science</strong> (2020), and an <strong>Associate of Science in Computer Information Systems</strong> (2017). My academic foundation blends instructional theory with technical fluency, allowing me to build scalable, inclusive learning environments that meet diverse needs.</p>
-<div style="clear: both;"></div>
-<h3>💡 Skills & Expertise</h3>
-<ul>
-  <li>Instructional Design & Curriculum Development for adult learners</li>
-  <li>Front-End Web Development: HTML, CSS, Bootstrap, jQuery, and responsive design</li>
-  <li>Accessibility & Inclusion: WCAG compliance, alt text optimization, keyboard navigation, and plain language writing</li>
-  <li>Technical Communication: Clear documentation, learner guidance, and stakeholder collaboration</li>
-  <li>Authoring Tools: Articulate 360, Rise, SharePoint, and Microsoft 365</li>
-</ul>
-
-<!-- Contact Info -->
-<ul style="list-style: none; padding-left: 0;">
-  <li><strong>Email:</strong> chantej1@yahoo.com  
-    <br>
-    <a href="mailto:chantej1@yahoo.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">Email Me</a>
-  </li>
-  <a href="ChanteJohnson.pdf" target="_blank" style="display: inline-block; margin-top: 1rem; padding: 0.5rem 1rem; background-color: #0078D4; color: white; text-decoration: none; border-radius: 4px;">
-  📄 View My Resume (PDF)
-</a>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
-  <li><strong>Location:</strong> Austin–Killeen, TX area</li>
-</ul>
-      <p style="margin-top: 1rem;">Let’s build something learner-centered, accessible, and impactful together.</p>
-    </div>
-  </section>
-
-  <!-- Projects Section -->
-  <section id="projects" style="padding: 2rem; background-color: #ffffff;">
-    <h2>Featured Projects</h2>
-    <p>Here’s a look at some of my instructional design and web development work, including interactive modules and presentation materials designed for clarity, accessibility, and learner engagement.</p>
-
-    <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1.5rem;">
-      
-      <!-- ECON Module Project -->
-      <div style="flex: 1; min-width: 280px; background-color: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-        <h3 style="color: #333;">ECON Module – Columbia</h3>
-        <p>An interactive module exploring monopolistic competition and market dynamics. Built with accessibility-first design and responsive layout.</p>
-        <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank">View Module</a>
-      </div>
-
-<!-- PowerPoint Presentations -->
-<div style="flex: 1; min-width: 280px; background-color: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <h3 style="color: #333;">Instructional Presentations</h3>
- <p>
-  A curated collection of slide decks designed for adult learners in professional settings. Topics include procurement authority, mobile learning strategies, public speaking skills, and administrative onboarding for healthcare facilities. Each presentation emphasizes clarity, accessibility, and practical application—ideal for training, workshops, or self-paced learning.
-</p>
-  <ul style="list-style: none; padding-left: 0;">
-  <h3 style="color: #333; margin-top: 2rem;">Downloadable PDF</h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>
-      <a href="Leveraging.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🗂️ Leveraging Procurement Authority to Advance Health Equity 
-      </a>
-    </li>
-  <h3 style="color: #333; margin-top: 2rem;">Downloadable PDF</h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>
-      <a href="Waystoimprovepublicspeaking.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🎤 Ways to Improve Public Speaking 
-      </a>
-    </li>
-   <h3 style="color: #333; margin-top: 2rem;">Downloadable PDF</h3>
-   <ul style="list-style: none; padding-left: 0;"> 
-    <li>
-      <a href="dohexternalfacilityaccountfacilityadminslidesintroandconclusion.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🏥 DOH External Facility Admin Slides – Intro & Conclusion 
-      </a>
-    </li>
-  </ul>
-
-  <h3 style="color: #333; margin-top: 2rem;">Downloadable PDF</h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>
-      <a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🧠 Your Thoughts and Feelings 
-      </a>
-    </li>
-  </ul>
-</div>
-
-    </div>
-  </section>
-
-</body>
-</html>
+Let’s build something learner-centered, accessible, and impactful together.
