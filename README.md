@@ -29,33 +29,39 @@
     z-index: -1;
   }
 
-  .navbar {
-  background-color: #1a1a1a;
-  padding: 1rem;
+  ./* Navigation Styles */
+.main-nav {
+  background-color: #222;
   position: sticky;
   top: 0;
-  z-index: 1000;
+  z-index: 999;
+  padding: 0.5rem 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.navbar ul {
-  list-style: none;
+.main-nav ul {
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.navbar a {
-  color: #f2f2f2;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 1rem;
+.main-nav li {
+  margin: 0 1.5rem;
 }
 
-.navbar a:hover,
-.navbar a:focus {
-  color: #00bcd4;
+.main-nav a {
+  color: #f5f5f5;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.main-nav a:hover,
+.main-nav a:focus {
+  color: #00aaff;
   outline: none;
   text-decoration: underline;
 }
