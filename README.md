@@ -5,53 +5,49 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Chante Johnson – Instructional Designer & Web Developer</title>
   <style>
-  body {
-    position: relative;
-    margin: 0;
-    padding: 2rem;
-    background-color: #fff8f0;
-    font-family: 'Segoe UI', sans-serif;
-    color: #1a1a1a;
-    z-index: 0;
-  }
+    html {
+      scroll-behavior: smooth;
+    }
 
-  body::before {
+    body::before {
     content: "";
     position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('backgro.png'); /* Make sure this path is correct */
+    background-image: url('backgro.png');
     background-repeat: no-repeat;
     background-size: cover;
     pointer-events: none;
     z-index: -1;
   }
-
-  ./* Navigation Styles */
-.main-nav {
-  background-color: #222;
-  position: sticky;
+/* Full-width top navigation */
+.top-nav {
+  width: 100%;
+  background-color: #1a1a1a;
+  padding: 1rem 0;
+  position: fixed;
   top: 0;
-  z-index: 999;
-  padding: 0.5rem 0;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  left: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-.main-nav ul {
+.top-nav ul {
   display: flex;
   justify-content: center;
+  align-items: center;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.main-nav li {
-  margin: 0 1.5rem;
+.top-nav li {
+  margin: 0 2rem;
 }
 
-.main-nav a {
+.top-nav a {
   color: #f5f5f5;
   text-decoration: none;
   font-size: 1rem;
@@ -59,13 +55,17 @@
   transition: color 0.3s ease;
 }
 
-.main-nav a:hover,
-.main-nav a:focus {
+.top-nav a:hover,
+.top-nav a:focus {
   color: #00aaff;
-  outline: none;
   text-decoration: underline;
+  outline: none;
 }
 
+/* Add spacing below header to prevent overlap */
+body {
+  padding-top: 70px;
+}
   h1, h2 {
     color: #2C3E50;
   }
@@ -76,16 +76,17 @@
   }
 
   .contact-card {
-    background-color: white;
-    padding: 1.5rem;
-    border-radius: 8px;
-    box-shadow
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
   </style>
 </head>
 <body>
 
-  <!-- Navigation -->
+   <!-- Navigation -->
   <nav>
     <a href="index.html">Home</a>
     <a href="Projects.html">Projects</a>
