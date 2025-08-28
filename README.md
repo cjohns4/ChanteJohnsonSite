@@ -22,11 +22,10 @@
     pointer-events: none;
     z-index: -1;
   }
-/* Full-width top navigation */
 .top-nav {
   width: 100%;
   background-color: #1a1a1a;
-  padding: 1rem 0;
+  padding: 1rem 2rem;
   position: fixed;
   top: 0;
   left: 0;
@@ -34,20 +33,33 @@
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-.top-nav ul {
+.nav-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.brand {
+  color: #f5f5f5;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.nav-links {
+  display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.top-nav li {
-  margin: 0 2rem;
+.nav-links li {
+  margin-left: 2rem;
 }
 
-.top-nav a {
+.nav-links a {
   color: #f5f5f5;
   text-decoration: none;
   font-size: 1rem;
@@ -55,31 +67,11 @@
   transition: color 0.3s ease;
 }
 
-.top-nav a:hover,
-.top-nav a:focus {
+.nav-links a:hover,
+.nav-links a:focus {
   color: #00aaff;
   text-decoration: underline;
   outline: none;
-}
-
-/* Add spacing below header to prevent overlap */
-body {
-  padding-top: 70px;
-}
-  h1, h2 {
-    color: #2C3E50;
-  }
-
-  h2 {
-    border-bottom: 2px solid #F39C12;
-    padding-bottom: 0.3rem;
-  }
-
-  .contact-card {
-  background-color: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
   </style>
