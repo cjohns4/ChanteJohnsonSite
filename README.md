@@ -90,10 +90,10 @@
   </nav>
 
 <!-- Banner  -->
-  <section id="about">...</section>
-  <div class="banner"></div>
+    <div class="banner"></div>
 
   <!-- Main Content -->
+  <section id="about">...</section>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; padding: 3rem 2rem; max-width: 1200px; margin: auto; gap: 2rem;">
 
     <!-- Bio Text -->
@@ -112,10 +112,10 @@
 </div>
 
 <!-- Banner  -->
-  <section id="portfolio">...</section>
-  <div class="banner"></div>
+   <div class="banner"></div>
 
-    <!-- Projects -->
+<!-- Projects -->
+     <section id="portfolio">...</section>
   <h2>💼 Projects</h2>
   
   <h3>📊 Instructional Presentations</h3>
@@ -146,10 +146,10 @@
   <hr>
   
 <!-- Banner  -->
-  <section id="resume">...</section>
-  <div class="banner"></div>
+    <div class="banner"></div>
   
-  <!-- Resume -->
+<!-- Resume -->
+  <section id="resume">...</section>
   <h2>📄 Experience</h2>
   <p><a href="ChanteJohnson.pdf" target="_blank" style="
   display: inline-block;
@@ -167,10 +167,10 @@
   <hr>
 
 <!-- Banner  -->
-  <section id="contact">...</section>
-  <div class="banner"></div>
+    <div class="banner"></div>
   
-  <!-- Contact -->
+<!-- Contact -->
+  <section id="contact">...</section>
   <h2>📬 Contact</h2>
   <ul>
     <li><strong>Email:</strong> <a href="mailto:chantej1@yahoo.com">chantej1@yahoo.com</a></li>
