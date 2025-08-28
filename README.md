@@ -131,7 +131,6 @@
 
 </div>
 
-
   <!-- Skills -->
   <h2>💡 Skills & Expertise</h2>
   <ul>
