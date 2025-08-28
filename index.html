@@ -5,80 +5,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Chante Johnson – Instructional Designer & Web Developer</title>
   <style>
-    body {
-  background-color: #fff8f0;
-  color: #1a1a1a;
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 0;
-}
+  body {
+    position: relative;
+    margin: 0;
+    padding: 2rem;
+    background-color: #fff8f0;
+    font-family: 'Segoe UI', sans-serif;
+    color: #1a1a1a;
+    z-index: 0;
+  }
 
-nav {
-  background-color: #C0392B;
-  padding: 1rem;
-  text-align: center;
-}
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('backgro.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    pointer-events: none;
+    z-index: -1;
+  }
 
-nav a {
-  color: white;
-  text-decoration: none;
-  margin: 0 1rem;
-  font-weight: bold;
-}
+  nav {
+    background-color: #C0392B;
+    padding: 1rem;
+    text-align: center;
+  }
 
-nav a:hover {
-  text-decoration: underline;
-  color: #F39C12;
-}
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: bold;
+  }
 
-h1, h2 {
-  color: #2C3E50;
-}
+  nav a:hover {
+    text-decoration: underline;
+    color: #F39C12;
+  }
 
-h2 {
-  border-bottom: 2px solid #F39C12;
-  padding-bottom: 0.3rem;
-}
+  h1, h2 {
+    color: #2C3E50;
+  }
 
-.contact-card {
-  background-color: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
+  h2 {
+    border-bottom: 2px solid #F39C12;
+    padding-bottom: 0.3rem;
+  }
 
-.contact-card a {
-  color: #C0392B;
-  text-decoration: none;
-}
-
-.contact-card a:hover {
-  text-decoration: underline;
-  color: #E67E22;
-}
-  position: relative;
-  margin: 0;
-  padding: 2rem;
-  background-color: #fff8f0;
-  font-family: 'Segoe UI', sans-serif;
-  color: #1a1a1a;
-  z-index: 0;
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-image: url('backgro.png'); 
-  background-repeat: no-repeat;
-  background-size: cover;
-  pointer-events: none; 
-  z-index: -1;
-}
-
+  .contact-card {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow
   </style>
 </head>
 <body>
