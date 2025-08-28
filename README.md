@@ -89,7 +89,8 @@
     </div>
   </nav>
 
-         <!-- Banner  -->
+<!-- Banner  -->
+  <section id="about">...</section>
   <div class="banner"></div>
 
   <!-- Main Content -->
@@ -109,6 +110,10 @@
   </div>
 
 </div>
+
+<!-- Banner  -->
+  <section id="portfolio">...</section>
+  <div class="banner"></div>
 
     <!-- Projects -->
   <h2>💼 Projects</h2>
@@ -139,7 +144,11 @@
   </p>
 
   <hr>
-
+  
+<!-- Banner  -->
+  <section id="resume">...</section>
+  <div class="banner"></div>
+  
   <!-- Resume -->
   <h2>📄 Experience</h2>
   <p><a href="ChanteJohnson.pdf" target="_blank" style="
@@ -157,6 +166,10 @@
 
   <hr>
 
+<!-- Banner  -->
+  <section id="contact">...</section>
+  <div class="banner"></div>
+  
   <!-- Contact -->
   <h2>📬 Contact</h2>
   <ul>
