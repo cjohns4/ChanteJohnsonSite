@@ -6,11 +6,10 @@
   <title>Chante Johnson – Instructional Designer & Web Developer</title>
   <style>
     body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
       background-color: #f0f4f8;
       color: #1a1a1a;
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
     }
 
     nav {
@@ -30,44 +29,55 @@
       text-decoration: underline;
     }
 
-    h2 {
-      color: #0078D4;
-      border-bottom: 2px solid #FFD166;
-      padding-bottom: 0.3rem;
-      margin-top: 2rem;
-    }
-
-    .contact-card {
-      background-color: white;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      max-width: 800px;
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      padding: 3rem 2rem;
+      max-width: 1200px;
       margin: auto;
     }
 
-    .contact-card a {
+    .text-section {
+      flex: 1;
+      min-width: 300px;
+      padding-right: 2rem;
+    }
+
+    .text-section h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
       color: #0078D4;
-      text-decoration: none;
     }
 
-    .contact-card a:hover {
-      text-decoration: underline;
+    .text-section p {
+      font-size: 1.1rem;
+      line-height: 1.6;
     }
 
-    img.profile {
-      float: left;
-      width: 240px;
+    .profile-photo {
+      flex: 1;
+      min-width: 280px;
+      text-align: center;
+    }
+
+    .profile-photo img {
+      width: 280px;
       max-width: 100%;
       border-radius: 50%;
-      margin: 0 2rem 1rem 0;
       box-shadow: 0 4px 12px rgba(0,0,0,0.2);
     }
 
-    hr {
-      margin: 2rem 0;
-      border: none;
-      border-top: 1px solid #ccc;
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .text-section {
+        padding-right: 0;
+      }
     }
   </style>
 </head>
@@ -81,18 +91,22 @@
     <a href="Contact.html">Contact</a>
   </nav>
 
-  <!-- Profile Header -->
-  <div class="contact-card">
-    <img src="img/polish.png" alt="Chante Johnson smiling in a professional setting" class="profile">
-    <h1>Chante Johnson – Instructional Designer & Web Developer</h1>
-    <p><strong>Code, Clarity, and Connection</strong><br>
-    Empowering learners through accessible design</p>
+  <!-- Main Content -->
+  <div class="container">
+    <div class="text-section">
+      <h1>Chante Johnson</h1>
+      <p><strong>Instructional Designer & Web Developer</strong><br>
+      Based in the Austin–Killeen, TX area, I specialize in building learner-centered, accessible training solutions for adult learners in healthcare, government, and technical sectors.</p>
 
-    <p>I’m Chante Johnson—an Instructional Designer and Web Developer with over 13 years of experience crafting learner-centered, accessible training solutions for adult learners across government, healthcare, and technical sectors.</p>
+      <p>My background blends instructional theory with technical fluency—from HTML and responsive design to curriculum development and stakeholder collaboration. I’m passionate about clarity, inclusion, and empowering users through thoughtful design.</p>
 
-    <p>I hold a <strong>Master of Arts in Learning, Design, and Technology</strong> from Point Park University (Graduating with Honors, April 2025), a <strong>Bachelor of Science in Computer Science</strong> (2020), and an <strong>Associate of Science in Computer Information Systems</strong> (2017).</p>
+      <p>I apply accessibility standards, plain language writing, and modular layouts to every project. Whether I’m developing onboarding modules or refining UI for training platforms, I focus on impact, usability, and learner engagement.</p>
+    </div>
 
-    <div style="clear: both;"></div>
+    <div class="profile-photo">
+      <img src="img/polish.png" alt="Chante Johnson smiling in a professional setting">
+    </div>
+  </div>
 
     <h2>💡 Skills & Expertise</h2>
     <ul>
@@ -110,14 +124,35 @@
 
     <h3>📊 Instructional Presentations</h3>
     <ul>
-      <li><a href="Leveraging.pptx" target="_blank">🗂️ Leveraging Procurement Authority to Advance Health Equity</a></li>
-      <li><a href="Waystoimprovepublicspeaking.pptx" target="_blank">🎤 Ways to Improve Public Speaking</a></li>
-      <li><a href="dohexternalfacilityaccountfacilityadminslidesintroandconclusion.pptx" target="_blank">🏥 DOH External Facility Admin Slides – Intro & Conclusion</a></li>
-      <li><a href="Five.pptx" target="_blank">📱 Five Benefits of Mobile Learning for Adults</a></li>
-      <li><a href="YourThoughtsandFeelings.pdf" target="_blank">🧠 Your Thoughts and Feelings</a></li>
-    </ul>
+      <h2>💼 Projects</h2>
+<p>Explore my instructional design, web development, and training projects—crafted for clarity, accessibility, and learner impact.</p>
 
-    <hr>
+<h3>📊 Instructional Presentations</h3>
+<ul>
+  <li><a href="Leveraging.pptx" target="_blank">🗂️ Leveraging Procurement Authority to Advance Health Equity</a></li>
+  <li><a href="Waystoimprovepublicspeaking.pptx" target="_blank">🎤 Ways to Improve Public Speaking</a></li>
+  <li><a href="dohexternalfacilityaccountfacilityadminslidesintroandconclusion.pptx" target="_blank">🏥 DOH External Facility Admin Slides – Intro & Conclusion</a></li>
+  <li><a href="Five.pptx" target="_blank">📱 Five Benefits of Mobile Learning for Adults</a></li>
+  <li><a href="YourThoughtsandFeelings.pdf" target="_blank">🧠 Your Thoughts and Feelings</a></li>
+</ul>
+
+<h3>🩺 Healthcare Training Module</h3>
+<p>
+  <a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">
+    🔗 eVitals Navigator – Role-Based Healthcare Onboarding
+  </a><br>
+  A comprehensive, role-based guide for medical facility users navigating Pennsylvania’s eVitals system. Includes targeted support, downloadable resources, and workflow guidance for data entry, certification, and facility management.
+</p>
+
+<h3>📈 ECON Module</h3>
+<p>
+  <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
+    🔗 ECON Module – Columbia
+  </a><br>
+  An interactive module exploring monopolistic competition and market dynamics. Built with accessibility-first design and responsive layout for college-level learners.
+</p>
+
+<hr>
 
     <h2>📄 Experience</h2>
     <p>My resume is available as a downloadable PDF:</p>
