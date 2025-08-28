@@ -29,24 +29,36 @@
     z-index: -1;
   }
 
-  nav {
-    background-color: #C0392B;
-    padding: 1rem;
-    text-align: center;
-  }
+  .navbar {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
 
-  nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0 1rem;
-    font-weight: bold;
-  }
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
 
-  nav a:hover {
-    text-decoration: underline;
-    color: #F39C12;
-  }
+.navbar a {
+  color: #f2f2f2;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+}
 
+.navbar a:hover,
+.navbar a:focus {
+  color: #00bcd4;
+  outline: none;
+  text-decoration: underline;
+}
   h1, h2 {
     color: #2C3E50;
   }
