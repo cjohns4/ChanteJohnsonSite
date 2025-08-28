@@ -121,7 +121,7 @@
     </div>
 
     <div class="profile-photo">
-      <img src="img/polish.png" alt="Chante Johnson smiling in a professional setting">
+      <img src="polish.png" alt="Chante Johnson smiling in a professional setting">
     </div>
   </div>
 
