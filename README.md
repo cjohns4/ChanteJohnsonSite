@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Chante Johnson – Instructional Designer & Web Developer</title>
   <style>
-   body {
+  body {
   background-color: #fff8f0;
   color: #1a1a1a;
   font-family: 'Segoe UI', sans-serif;
@@ -14,7 +14,7 @@
 }
 
 nav {
-  background-color: #FF6B6B;
+  background-color: #C0392B;
   padding: 1rem;
   text-align: center;
 }
@@ -28,15 +28,15 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
-  color: #FFD166;
+  color: #F39C12;
 }
 
 h1, h2 {
-  color: #FF6B6B;
+  color: #2C3E50;
 }
 
 h2 {
-  border-bottom: 2px solid #FFD166;
+  border-bottom: 2px solid #F39C12;
   padding-bottom: 0.3rem;
 }
 
@@ -48,60 +48,14 @@ h2 {
 }
 
 .contact-card a {
-  color: #FF6B6B;
+  color: #C0392B;
   text-decoration: none;
 }
 
 .contact-card a:hover {
   text-decoration: underline;
-  color: #FF9F1C;
+  color: #E67E22;
 }
-
-    .text-section p {
-      font-size: 1.1rem;
-      line-height: 1.6;
-    }
-
-    .profile-photo {
-      flex: 1;
-      min-width: 280px;
-      text-align: center;
-    }
-
-    .profile-photo img {
-      width: 280px;
-      max-width: 100%;
-      border-radius: 50%;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    }
-
-    h2 {
-      color: #0078D4;
-      border-bottom: 2px solid #FFD166;
-      padding-bottom: 0.3rem;
-      margin-top: 2rem;
-    }
-
-    ul {
-      padding-left: 1.2rem;
-    }
-
-    hr {
-      margin: 2rem 0;
-      border: none;
-      border-top: 1px solid #ccc;
-    }
-
-    @media (max-width: 768px) {
-      .container {
-        flex-direction: column;
-        text-align: center;
-      }
-
-      .text-section {
-        padding-right: 0;
-      }
-    }
   </style>
 </head>
 <body>
