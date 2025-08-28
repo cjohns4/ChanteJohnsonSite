@@ -136,10 +136,12 @@
 
     </div>
 
-    <div class="profile-photo">
-      <img src="polish.png" alt="Chante Johnson smiling in a professional setting">
-    </div>
+     <!-- Profile Photo -->
+  <div style="flex: 1; min-width: 280px; text-align: center;">
+    <img src="polish.png" alt="Chante Johnson smiling in a professional setting" style="width: 280px; max-width: 100%; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </div>
+</div>
+
 
   <!-- Skills -->
   <h2>💡 Skills & Expertise</h2>
