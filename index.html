@@ -73,7 +73,7 @@ h2 {
   
   <!-- Bio Text -->
   <div style="flex: 1; min-width: 300px; padding-right: 2rem;">
-    <h1 style="color: #0078D4;">Hi, I’m Chante Johnson</h1>
+    <h1>Hi, I’m Chante Johnson</h1>
     <p><strong>Instructional Designer & Web Developer</strong> who believes learning should feel empowering, not overwhelming.  
     Based in the Austin–Killeen, TX area, I specialize in creating training experiences that are clear, accessible, and genuinely useful for adult learners.</p>
 
