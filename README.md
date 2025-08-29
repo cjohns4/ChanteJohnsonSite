@@ -105,7 +105,7 @@
 
   <!-- Profile Photo -->
   <div style="flex: 0 0 280px; text-align: center;">
-    <img src="update.png" alt="Chante Johnson posing in a professional setting" style="width: 100%; max-width: 280px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="uploaded .png" alt="Chante Johnson posing in a professional setting" style="width: 100%; max-width: 280px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
 </div>
