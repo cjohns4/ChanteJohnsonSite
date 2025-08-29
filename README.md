@@ -119,10 +119,7 @@
   <h3>📊 Instructional Presentations</h3>
   <ul>
     <li><a href="Leveraging.pptx" target="_blank">🗂️ Using Purchasing Power to Promote Health Equity</a></li>
-    <li><a href="Waystoimprovepublicspeaking.pptx" target="_blank">🎤 Ways to Improve Public Speaking</a></li>
-    <li><a href="dohexternalfacilityaccountfacilityadminslidesintroandconclusion.pptx" target="_blank">🏥 DOH External Facility Admin Slides – Intro & Conclusion</a></li>
-    <li><a href="Five.pptx" target="_blank">📱 Five Benefits of Mobile Learning for Adults</a></li>
-    <li><a href="YourThoughtsandFeelings.pdf" target="_blank">🧠 Your Thoughts and Feelings</a></li>
+    <li><a href="YourThoughtsandFeelings.pdf" target="_blank">🎤 Ways to Improve Public Speaking</a></li>
   </ul>
 
   <h3>🩺 Healthcare Training Module</h3>
