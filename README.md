@@ -140,6 +140,13 @@
     </a><br>
     An interactive module exploring monopolistic competition and market dynamics.
   </p>
+  <p>
+      <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">
+        Curious about how I design for real-world learners?
+      </a><br>
+      Visit my blog for reflections on digital literacy, accessibility, and learner-centered design.
+ </p>
+
 
   <hr>
   
