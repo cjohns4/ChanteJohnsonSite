@@ -295,15 +295,15 @@
 
 </section>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <script>
   function toggleMenu() {
     const menu = document.getElementById("dropdownMenu");
     menu.style.display = menu.style.display === "block" ? "none" : "block";
   }
 
- 
   window.onclick = function(event) {
-    if (!event.target.matches('.ellipsis button')) {
+    if (!event.target.matches('.menu-icon button')) {
       const dropdown = document.getElementById("dropdownMenu");
       if (dropdown && dropdown.style.display === "block") {
         dropdown.style.display = "none";
@@ -311,5 +311,6 @@
     }
   };
 </script>
+
 </body>
 </html>
