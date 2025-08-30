@@ -116,7 +116,7 @@
 <!-- Projects -->  
   <h2>💼 Projects</h2>
   
-  <h3>🔐 Cybersecurity & HIPAA in the Workplace</h3>
+  <h3>Cybersecurity & HIPAA in the Workplace</h3>
     <p>
      Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.
     </p>
@@ -126,26 +126,26 @@
           🗂️ HIPAA-Compliance-Microlearning
         </a>
       </li>
-  <h3>📊 Instructional Presentations</h3>
+  <h3>Instructional Presentations</h3>
   <ul>
     <li><a href="Leveraging.pptx" target="_blank">🗂️ Using Purchasing Power to Promote Health Equity</a></li>
     <li><a href="YourThoughtsandFeelings.pdf" target="_blank">🎤 Ways to Improve Public Speaking</a></li>
   </ul>
 
-  <h3>🩺 Healthcare Training Module</h3>
+  <h3>Healthcare Training Module</h3>
   <p>
     <a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">
       🔗 eVitals Navigator – Role-Based Healthcare Onboarding
     </a><br>
-    A comprehensive, role-based guide for medical facility users navigating Pennsylvania’s eVitals system.
+   I created this onboarding guide to help medical facility staff confidently navigate Pennsylvania’s eVitals system. The module is tailored by role—whether you're a nurse, administrator, or technician—so each user gets exactly what they need, without the noise. It’s designed for clarity, accessibility, and real-world usability, making complex workflows feel intuitive and manageable from day one.
   </p>
 
-  <h3>📈 ECON Module</h3>
+  <h3>ECON Module</h3>
   <p>
     <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
       🔗 ECON Module – Columbia
     </a><br>
-    An interactive module exploring monopolistic competition and market dynamics.
+    I designed this interactive learning experience to help students explore the complexities of monopolistic competition and market dynamics. Through guided activities, visual simulations, and real-world examples, the module breaks down economic theory into digestible, learner-friendly segments. It’s built to support active engagement and conceptual clarity—perfect for foundational economics courses.
   </p>
   <p>
       <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">
