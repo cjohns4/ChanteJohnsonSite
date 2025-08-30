@@ -90,35 +90,55 @@
 </nav>
 
 <!-- Banner -->
-    <div class="banner"></div>
+<div class="banner"></div>
 
 <!-- Contact Section -->
-  <h1 style="color: v; border-bottom: 2px solid #880E4F; padding-bottom: 0.3rem;">📬 Contact Me</h1>
+<section style="padding:2rem; background-color:#f9f9f9; border-radius:8px; max-width:700px; margin:auto;">
 
-    <ul style="list-style: none; padding-left: 0; font-size: 1.1rem;">
-      <li>
-        <strong>Email:</strong> chantej1@yahoo.com<br>
-        <a href="mailto:chantej1@yahoo.com" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1rem; background-color: #880E4F; color: white; text-decoration: none; border-radius: 4px;">
-          ✉️ Email Me
-        </a>
-      </li>
+  <h1 style="color:#880E4F; border-bottom:2px solid #880E4F; padding-bottom:0.3rem; margin-bottom:1.5rem;">
+    📬 Contact Me
+  </h1>
 
-      <li style="margin-top: 1rem;">
-        <strong>LinkedIn:</strong>
-        <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank" style="color: #880E4F;">
-          linkedin.com/in/chante-johnson-140171309
-        </a>
-      </li>
+  <form action="https://formspree.io/f/mvgbkdok" method="POST" style="max-width:600px;">
+    <label for="name" style="display:block; margin-bottom:0.5rem;">Name:</label>
+    <input type="text" id="name" name="name" required style="width:100%; padding:0.5rem; margin-bottom:1rem;">
 
-      <li style="margin-top: 1rem;">
-        <strong>Location:</strong> Austin–Killeen, TX area
-      </li>
-    </ul>
+    <label for="email" style="display:block; margin-bottom:0.5rem;">Email:</label>
+    <input type="email" id="email" name="email" required style="width:100%; padding:0.5rem; margin-bottom:1rem;">
 
-    <p style="margin-top: 2rem; font-size: 1.1rem;">
-      Let’s work together to create learning that’s easy to understand, welcoming to everyone, and truly useful.
-    </p>
-  </section>
+    <label for="message" style="display:block; margin-bottom:0.5rem;">How can I help you?</label>
+    <textarea id="message" name="message" rows="5" required style="width:100%; padding:0.5rem; margin-bottom:1rem;"></textarea>
+
+    <button type="submit" style="background-color:#0078D4; color:#fff; padding:0.75rem 1.5rem; border:none; border-radius:4px; cursor:pointer;">
+      Submit
+    </button>
+  </form>
+
+  <ul style="list-style:none; padding-left:0; font-size:1.1rem; margin-top:2rem;">
+    <li>
+      <strong>Email:</strong> chantej1@yahoo.com<br>
+      <a href="mailto:chantej1@yahoo.com" style="display:inline-block; margin-top:0.5rem; padding:0.5rem 1rem; background-color:#880E4F; color:white; text-decoration:none; border-radius:4px;">
+        ✉️ Email Me
+      </a>
+    </li>
+
+    <li style="margin-top:1rem;">
+      <strong>LinkedIn:</strong>
+      <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank" style="color:#880E4F;">
+        linkedin.com/in/chante-johnson-140171309
+      </a>
+    </li>
+
+    <li style="margin-top:1rem;">
+      <strong>Location:</strong> Austin–Killeen, TX area
+    </li>
+  </ul>
+
+  <p style="margin-top:2rem; font-size:1.1rem;">
+    Let’s work together to create learning that’s easy to understand, welcoming to everyone, and truly useful.
+  </p>
+
+</section>
 
 </body>
 </html>
