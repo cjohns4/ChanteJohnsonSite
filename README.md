@@ -160,7 +160,7 @@
 
   <!-- Profile Photo -->
   <div style="flex: 0 0 280px; text-align: center;">
-    <img src="one.png" alt="Chante Johnson posing in a professional setting" style="width: 100%; max-width: 280px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="right.jpeg" alt="Chante Johnson in a yellow blazer posing in a professional setting" style="width: 100%; max-width: 280px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
 </div>
