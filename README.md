@@ -99,7 +99,7 @@
   <div style="flex: 1; min-width: 300px;">
     <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Born for Innovation</h1>
     <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
-     <p>I’m Chante’ Johnson, a technologist and learning experience designer with a passion for clarity, inclusion, and lifelong learning. Originally from Harlem, New York, I’ve lived in New Jersey, Pennsylvania, Maryland, and now call Texas home. Every move, every challenge has been a lesson—and I carry that mindset into everything I create.</p>
+     <p>I’m Chante’ Johnson, a technologist and learning experience designer with a passion for clarity, inclusion, and lifelong learning. Originally from Harlem, New York, my journey has taken me across the East Coast and now to Texas—each chapter shaping how I approach design, communication, and growth. I see every challenge as a learning opportunity, and I bring that mindset into everything I create.</p>
       <p>My name, given to me by my aunt, is French for “to sing”—and I’ve always believed in the power of voice, whether through storytelling, design, or digital strategy. I love reading, traveling, and gaining new skills, and I see every challenge as an opportunity to grow.</p>
       <p>Academically, my path reflects the same layered approach I bring to my work:</p> 
         <li>My Master of Arts in Learning, Design, and Technology focuses on curriculum development, instructional strategy, and designing inclusive learning environments.</li>
