@@ -114,47 +114,57 @@
    <div class="banner"></div>
 
 <!-- Projects -->  
-  <h2>💼 Projects</h2>
-  
-  <h3>Cybersecurity & HIPAA in the Workplace</h3>
+  <h3> Cybersecurity & HIPAA in the Workplace Module</h3>
     <p>
-     Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.
+     Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise
+ with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.
     </p>
     <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
       <li>
         <a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-          🗂️ HIPAA-Compliance-Microlearning
+          🗂️ HIPAA-Compliance-Module
         </a>
       </li>
-  <h3>Instructional Presentations</h3>
-  <ul>
-    <li><a href="Leveraging.pptx" target="_blank">🗂️ Using Purchasing Power to Promote Health Equity</a></li>
-    <li><a href="YourThoughtsandFeelings.pdf" target="_blank">🎤 Ways to Improve Public Speaking</a></li>
-  </ul>
+    <h3>Instructional Presentations</h3>
+    <p>
+     This curated collection of slide decks is designed for adult learners in professional settings—whether in workshops, training sessions, or self-paced development. I focus on clarity, accessibility, and practical application across topics like leveraging procurement authority to promote health equity and strengthening public speaking skills.
+    </p>
+    <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
+      <li>
+        <a href="Leveraging.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
+          🗂️ Using Purchasing Power to Promote Health Equity
+        </a>
+      </li>
+     
+      <li>
+        <a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
+           🗂️ Ways to Improve Public Speaking
+        </a>
+      </li>
+    </ul>
 
-  <h3>Healthcare Training Module</h3>
-  <p>
-    <a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">
-      🔗 eVitals Navigator – Role-Based Healthcare Onboarding
-    </a><br>
-   I created this onboarding guide to help medical facility staff confidently navigate Pennsylvania’s eVitals system. The module is tailored by role—whether you're a nurse, administrator, or technician—so each user gets exactly what they need, without the noise. It’s designed for clarity, accessibility, and real-world usability, making complex workflows feel intuitive and manageable from day one.
-  </p>
-
-  <h3>ECON Module</h3>
-  <p>
-    <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
-      🔗 ECON Module – Columbia
-    </a><br>
-    I designed this interactive learning experience to help students explore the complexities of monopolistic competition and market dynamics. Through guided activities, visual simulations, and real-world examples, the module breaks down economic theory into digestible, learner-friendly segments. It’s built to support active engagement and conceptual clarity—perfect for foundational economics courses.
-  </p>
-  <p>
-      <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">
-        Curious about how I design for real-world learners?
+    <h3>Healthcare Training Module</h3>
+    <p>
+       I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.
+    </p>
+      <a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">
+        🔗 eVitals Navigator – Role-Based Healthcare Onboarding
       </a><br>
-      Visit my blog for reflections on digital literacy, accessibility, and learner-centered design.
- </p>
 
-
+    <h3>Microeconomics Module</h3>
+    <p>
+      As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module using HTML, CSS, and GitHub to help students explore monopolistic competition, oligopolies, and market power. The content is organized into digestible sections with guided readings and real-world context, designed to support conceptual clarity in an online learning environment.
+    </p>
+      <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
+        🔗 Microeconomics for Columbia College
+      </a><br>
+    <h3>Blog</h3>
+    <p>
+      This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners. From instructional strategies to tech tips, I explore how thoughtful design can empower people—not just inform them. If you're curious about how I build inclusive, learner-centered experiences, this is the place to start.
+    </p>
+ <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">
+       🔗 Visit my blog
+      </a><br>
   <hr>
   
 <!-- Banner  -->
