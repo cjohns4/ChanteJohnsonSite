@@ -116,6 +116,16 @@
 <!-- Projects -->  
   <h2>💼 Projects</h2>
   
+  <h3>🔐 Cybersecurity & HIPAA in the Workplace</h3>
+    <p>
+     Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.
+    </p>
+    <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
+      <li>
+        <a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
+          🗂️ HIPAA-Compliance-Microlearning
+        </a>
+      </li>
   <h3>📊 Instructional Presentations</h3>
   <ul>
     <li><a href="Leveraging.pptx" target="_blank">🗂️ Using Purchasing Power to Promote Health Equity</a></li>
