@@ -79,7 +79,7 @@
     <!-- Navigation -->
 <nav class="top-nav" role="navigation" aria-label="Main navigation">
   <div class="nav-container">
-    <div class="brand">Chante Johnson</div>
+    <div class="brand">Chante' Johnson</div>
     <ul class="nav-links">
       <li><a href="index.html">About</a></li>
       <li><a href="Projects.html">Projects</a></li>
