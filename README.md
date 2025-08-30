@@ -191,13 +191,59 @@
     <div class="banner"></div>
   
 <!-- Contact -->
-  <h1>📬 Contact</h1>
-  <ul>
-    <li><strong>Email:</strong> <a href="mailto:chantej1@yahoo.com">chantej1@yahoo.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank">linkedin.com/in/chante-johnson-140171309</a></li>
-    <li><strong>Location:</strong> Austin–Killeen, TX area</li>
+<!-- Banner -->
+<div class="banner"></div>
+
+<!-- Contact Section -->
+<section style="padding:2rem; background-color:#f9f9f9; border-radius:8px; max-width:700px; margin:auto;">
+
+  <h1 style="color:#880E4F; border-bottom:2px solid #880E4F; padding-bottom:0.3rem; margin-bottom:1.5rem;">
+    Contact 
+  </h1>
+
+  <p style="font-size:0.95rem; color:#555; margin-bottom:1rem;">
+    <em>* indicates required field</em>
+  </p>
+
+  <form action="https://formspree.io/f/mvgbkdok" method="POST" style="max-width:600px;">
+    <label for="name" style="display:block; margin-bottom:0.5rem;">Name <span style="color:red;">*</span></label>
+    <input type="text" id="name" name="name" required style="width:100%; padding:0.5rem; margin-bottom:1rem;">
+
+    <label for="email" style="display:block; margin-bottom:0.5rem;">Email <span style="color:red;">*</span></label>
+    <input type="email" id="email" name="email" required style="width:100%; padding:0.5rem; margin-bottom:1rem;">
+
+    <label for="message" style="display:block; margin-bottom:0.5rem;">How can I help you? <span style="color:red;">*</span></label>
+    <textarea id="message" name="message" rows="5" required style="width:100%; padding:0.5rem; margin-bottom:1rem;"></textarea>
+
+    <div class="g-recaptcha" data-sitekey="6LcS4LcrAAAAAIh0WPUH74KlurMc9rbNIM893vcK"></div>
+
+    <button type="submit" style="background-color:#0078D4; color:#fff; padding:0.75rem 1.5rem; border:none; border-radius:4px; cursor:pointer;">
+      Submit
+    </button>
+  </form>
+
+  <ul style="list-style:none; padding-left:0; font-size:1.1rem; margin-top:2rem;">
+    <li>
+      chantej1@yahoo.com<br>
+     
+    <li style="margin-top:1rem;">
+      <strong>LinkedIn:</strong>
+      <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank" style="color:#880E4F;">
+        linkedin.com/in/chante-johnson-140171309
+      </a>
+    </li>
+
+    <li style="margin-top:1rem;">
+      <strong>Location:</strong> Austin–Killeen, TX area
+    </li>
   </ul>
-  <p>Let’s build something learner-centered, accessible, and impactful together.</p>
+
+  <p style="margin-top:2rem; font-size:1.1rem;">
+   Let’s collaborate to build learning experiences that are clear, inclusive, and purpose-driven—designed not just to inform, but to empower. I believe education should meet people where they are and give them the tools to go further with confidence and clarity.
+  </p>
+
+</section>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </body>
 </html>
