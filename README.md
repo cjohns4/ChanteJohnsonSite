@@ -171,7 +171,7 @@
     <div class="banner"></div>
   
 <!-- Resume -->
-  <h2>📄 Experience</h2>
+  <h2>📄 Resume</h2>
   <p><a href="ChanteJohnson.pdf" target="_blank" style="
   display: inline-block;
   background-color: #D35400;
@@ -237,10 +237,6 @@
       <strong>Location:</strong> Austin–Killeen, TX area
     </li>
   </ul>
-
-  <p style="margin-top:2rem; font-size:1.1rem;">
-   Let’s collaborate to build learning experiences that are clear, inclusive, and purpose-driven—designed not just to inform, but to empower. I believe education should meet people where they are and give them the tools to go further with confidence and clarity.
-  </p>
 
 </section>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
