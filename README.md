@@ -83,8 +83,8 @@
     <ul class="nav-links">
       <li><a href="index.html">About</a></li>
       <li><a href="Projects.html">Projects</a></li>
-      <li><a href="Experience.html">Experience</a></li>
-      <li><a href="Contact.html">Contact</a></li>
+      <li><a href="Experience.html">Resume</a></li>
+      <li><a href="Contact.html">Contact Me</a></li>
     </ul>
   </div>
 </nav>
