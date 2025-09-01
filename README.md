@@ -145,17 +145,35 @@
   <div style="flex: 1; min-width: 300px;">
     <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Born for Innovation</h1>
     <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
-     <p>I’m Chante’ Johnson, a technologist and learning experience designer with a passion for clarity, inclusion, and lifelong learning. Originally from Harlem, New York, my journey has taken me across the East Coast and now to Texas—each chapter shaping how I approach design, communication, and growth. I see every challenge as a learning opportunity, and I bring that mindset into everything I create.</p>
-      <p>My name, given to me by my aunt, is French for “to sing”—and I’ve always believed in the power of voice, whether through storytelling, design, or digital strategy. I love reading, traveling, and gaining new skills that help me stay curious and connected..</p>
-      <p>Academically, my path reflects the same layered approach I bring to my work:</p> 
-        <li>My Master of Arts in Learning, Design, and Technology focuses on curriculum development, instructional strategy, and designing inclusive learning environments.</li>
-        <li>My Bachelor of Science in Computer Science blends business principles with front-end development, giving me the tools to build scalable, user-centered digital solutions.</li>  
-        <li>My Associate of Science in Computer Information Systems laid the technical foundation—covering hardware, boot menus, Active Directory, networking, and system architecture.</li>  
-      <p>Professionally, I’ve spent over 13 years creating learner-centered solutions across public service, government, healthcare, HVAC, internet, and cable industries. I specialize in bridging technical systems with human-centered design—developing accessible modules, responsive training sites, and content that empowers people to learn with confidence.</p>  
-      <p>To reflect my skills and values, I built this portfolio site from the ground up—writing every line of code and designing every section to showcase not just what I do, but who I am: someone committed to innovation, equity, and using technology to make a meaningful impact.</p> 
-     <h3>How can I help you?</h3>
- <p>Let’s work together to create learning that resonates—clear, inclusive, and built with purpose. I believe education should meet people where they are, honor their lived experiences, and equip them with the tools to grow, adapt, and thrive. My goal is to design content that doesn’t just deliver information, but inspires confidence and sparks meaningful change.Please <a href="mailto:chantej1@yahoo.com?subject=Inquiry from Portfolio Site">contact me</a> and discover what we can build together.
-      </div>
+       <p>
+    I’m Chante’ Johnson, a technologist and learning experience designer driven by clarity, inclusion, and lifelong learning. Originally from Harlem, New York, my journey has taken me across the East Coast and now to Texas—each chapter shaping how I approach design, communication, and growth. I see every challenge as a learning opportunity, and I bring that mindset into everything I create.
+  </p>
+
+  <p>
+    My name, given to me by my aunt, is French for “to sing”—and I’ve always believed in the power of voice, whether through storytelling, design, or digital strategy. I love reading, traveling, and gaining new skills that keep me curious and connected.
+  </p>
+
+  <p><strong>Academically, my path reflects the layered approach I bring to my work:</strong></p>
+  <ul>
+    <li>
+      My <strong>Master of Arts in Learning, Design, and Technology</strong> integrates instructional strategy, curriculum development, and digital learning leadership. Through courses like Instructional Methods for Digital Environments, Online Teaching Design, Assessment and Evaluation, and Issues and Trends in Digital Learning, I’ve built a foundation for designing inclusive, learner-centered experiences that are both strategic and innovative.
+    </li>
+    <li>
+      My <strong>Bachelor of Science in Computer Science</strong> combines business principles with technical fluency in front-end development, databases, networking, and systems architecture. With coursework in Advanced Programming, Business Analytics, Corporate Finance, and Strategic Planning, I’ve developed the skills to build scalable, user-centered digital solutions that support real-world impact.
+    </li>
+    <li>
+      My <strong>Associate of Science in Computer Information Systems</strong> provided hands-on training in advanced WAN/LAN networking, server patching, scripting, and hardware configuration. I also developed an advanced understanding of Microsoft Office products—including Excel, Word, Access, and PowerPoint—which continue to support my work in documentation, data analysis, and instructional design. The program included coursework in accounting, business applications, and statistics, giving me a practical foundation in both technical systems and analytical thinking.
+    </li>
+  </ul>
+  <p>
+    To reflect my skills and values, I built this portfolio site from the ground up—writing every line of code and designing every section to showcase not just what I do, but who I am: someone committed to innovation, equity, and using technology to make a meaningful impact.
+  </p>
+
+  <h3>How can I help you?</h3>
+  <p>
+    Let’s create learning that resonates—clear, inclusive, and built with purpose. I believe education should meet people where they are, honor their lived experiences, and equip them with the tools to grow, adapt, and thrive. My goal is to design content that doesn’t just deliver information, but inspires confidence and sparks meaningful change. Please <a href="mailto:chantej1@yahoo.com?subject=Inquiry from Portfolio Site">contact me</a> and discover what we can build together.
+  </p>
+</div>
   </div>
 
   <!-- Profile Photo -->
@@ -168,75 +186,75 @@
 <!-- Banner  -->
    <div class="banner"></div>
 
-<!-- Projects -->  
-  <h3> Cybersecurity & HIPAA in the Workplace Module</h3>
-    <p>
-     Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise
- with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.
-    </p>
-    <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
-      <li>
-        <a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-          🗂️ HIPAA-Compliance-Module
-        </a>
-      </li>
-    <h3>Instructional Presentations</h3>
-    <p>
-     This curated collection of slide decks is designed for adult learners in professional settings—whether in workshops, training sessions, or self-paced development. I focus on clarity, accessibility, and practical application across topics like leveraging procurement authority to promote health equity and strengthening public speaking skills.
-    </p>
-    <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
-      <li>
-        <a href="Leveraging.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">
-          🗂️ Using Purchasing Power to Promote Health Equity
-        </a>
-      </li>
-     
-      <li>
-        <a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-           🗂️ Ways to Improve Public Speaking
-        </a>
-      </li>
-    </ul>
+ <!-- Projects Section Header -->
+<div style="max-width: 800px; margin: 0 auto; text-align: center; padding: 2rem 1rem;">
+  <h1 style="margin-bottom: 0.5rem;">Project Highlights</h1>
+  <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 2rem;">
+    Each project reflects my commitment to inclusive, learner-centered design—where clarity, strategy, and storytelling come together to create meaningful experiences.
+  </p>
+  <hr style="width: 60%; margin: 0 auto; border: none; border-top: 1px solid #ddd;">
+</div>
 
-    <h3>Healthcare Training Module</h3>
-    <p>
-       I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.
-    </p>
-      <a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🔗 eVitals Navigator – Role-Based Healthcare Onboarding
-      </a><br>
+<!-- Projects Section Content -->
+<section>
+  <div style="max-width: 800px; margin: 0 auto; padding: 2rem 1rem;">
+    <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
 
-    <h3>Microeconomics Module</h3>
-    <p>
-      As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module using HTML, CSS, and GitHub to help students explore monopolistic competition, oligopolies, and market power. The content is organized into digestible sections with guided readings and real-world context, designed to support conceptual clarity in an online learning environment.
-    </p>
-      <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🔗 Microeconomics for Columbia College
-      </a><br>
-    <h2 style="font-size: 1.8rem; margin-top: 2rem;">The Memory Keeper (Excerpt)</h2>
-<h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;">Why I Write</h3>
+      <!-- Cybersecurity Module -->
+      <h3>Cybersecurity & HIPAA in the Workplace Module</h3>
+      <p>Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.</p>
+      <iframe src="cybersecurity.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
+      <p><a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
 
-<p style="font-size: 1.1rem; line-height: 1.7; max-width: 800px;">
-  As a learning experience designer, I believe stories shape how we learn, connect, and grow. This excerpt from <em>The Memory Keeper</em> reflects the emotional lens I bring to my work—centered on voice, vulnerability, and the power of remembering.
-</p>
+      <!-- Health Equity Presentation -->
+      <h3 id="health-equity-title" style="font-size: 1.5rem; margin-top: 2rem;">Using Purchasing Power to Promote Health Equity</h3>
+      <p>This presentation explores how procurement policies can serve as strategic levers for advancing health equity. Designed for public sector professionals, it offers actionable approaches for aligning purchasing decisions with community well-being. I created the deck using PowerPoint, incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.</p>
+      <a href="Leveraging.pptx" target="_blank" title="Download full presentation">
+        <img src="Screenshot.png" alt="Slide preview: Using Purchasing Power to Promote Health Equity" style="width: 90%; max-width: 400px; height: auto; border: 1px solid #ccc; border-radius: 8px; margin: 1.2rem 0;">
+      </a>
+      <p><a href="Leveraging.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
 
-<iframe src="Memory.pdf" width="100%" height="400" style="border:1px solid #ccc; border-radius:8px; margin: 2rem 0;"></iframe>
+      <!-- Healthcare Training Module -->
+      <h3>Healthcare Training Module</h3>
+      <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.</p>
+      <iframe src="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
+      <p><a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 eVitals Navigator – Role-Based Healthcare Onboarding</a></p>
 
-<ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
-  <li>
-    <a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">
-      🗂️ Narrative-Excerpt
-    </a>
-  </li>
-</ul>
-      </li>
-    <h3>Blog</h3>
-    <p>
-      This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners. From instructional strategies to tech tips, I explore how thoughtful design can empower people—not just inform them. If you're curious about how I build inclusive, learner-centered experiences, this is the place to start.
-    </p>
- <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">
-       🔗 Visit my blog
-      </a><br>
+      <!-- Public Speaking -->
+      <h3 id="public-speaking-title" style="font-size: 1.5rem; margin-top: 2rem;">Ways to Improve Public Speaking</h3>
+      <p>Public speaking hasn’t always come naturally to me—but over time, I’ve learned how structure, intention, and empathy can transform a message. This presentation offers the tools I wish I had starting out: ways to speak with clarity, manage nerves, and truly connect with an audience. It’s designed for professionals who want to lead with authenticity and presence.</p>
+      <a href="YourThoughtsandFeelings.pdf" target="_blank" title="Download full presentation">
+        <img src="Screenshot 2025-08-31 194321.png" alt="Slide preview: Public Speaking for Beginners" style="width: 90%; max-width: 400px; height: auto; border: 1px solid #ccc; border-radius: 8px; margin: 1.2rem 0;">
+      </a>
+      <p><a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
+
+      <!-- Microeconomics Module -->
+      <h3>Microeconomics Module</h3>
+      <p>As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module using HTML, CSS, Bootstrap, and GitHub Pages to help students explore market structures like monopolistic competition and oligopolies. The content is organized into clear, responsive sections with real-world context to support online learning.</p>
+      <iframe src="https://cjohns4.github.io/ECON-Module-Columbia/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-top:1rem;"></iframe>
+      <p><a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 Microeconomics for Columbia College</a></p>
+
+      <!-- The Memory Keeper -->
+      <h2 style="font-size: 1.8rem; margin-top: 2rem;">The Memory Keeper (Excerpt)</h2>
+      <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h3>
+      <p>As a learning experience designer, I believe stories shape how we learn, connect, and grow. This excerpt from <em>The Memory Keeper</em> reflects the emotional lens I bring to my work—centered on voice, vulnerability, and the power of remembering.</p>
+      <iframe 
+  src="Memory.pdf" 
+  style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
+  loading="lazy">
+</iframe>
+      <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">🗂️ Narrative-Excerpt</a></p>
+
+      <!-- Blog -->
+      <h3>Blog</h3>
+      <p>This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners. From instructional strategies to tech tips, I explore how thoughtful design can empower people—not just inform them. If you're curious about how I build inclusive, learner-centered experiences, this is the place to start.</p>
+      <iframe src="https://chanteshotspot.blogspot.com/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-top:1rem;"></iframe>
+      <p><a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 Visit my blog</a></p>
+
+      <hr style="border: none; border-top: 2px solid #D35400; margin: 3rem 0;">
+    </div>
+  </div>
+</section>
   <hr>
   
 <!-- Banner  -->
