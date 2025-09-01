@@ -210,16 +210,14 @@
       <p><a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;"> 📄 View or download the full presentation (PDF)</a></p>
 
       <!-- Health Equity Presentation -->
-<h3 id="health-equity-title" style="font-size: 1.5rem; margin-top: 2rem;">
-  Using Purchasing Power to Promote Health Equity
-</h3>
-<p>
+<h3 style="color: #000;">Using Purchasing Power to Promote Health Equity</h3>
+<p style="color: #000;">
   This presentation explores how procurement policies can be used as strategic tools to advance health equity. Created for public sector professionals, it offers practical approaches to aligning purchasing decisions with community well-being. I designed the deck in PowerPoint, incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.
 </p>
 <iframe src="Delegation of Procurement Authority.pdf" width="100%" height="200" style="border: 1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-<p>
+<p style="color: #000;">
   <a href="Delegation of Procurement Authority.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-    📄 View or download the full presentation (PDF)
+    📄 View or download the full (PDF)
   </a>
 </p>
 
