@@ -249,7 +249,7 @@
       <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">🗂️ Narrative-Excerpt</a></p>
      
       <!-- Sanctified Shadows: A Glimpse into My Fictional World -->
-      <h2 style="font-size: 1.8rem; margin-top: 2rem;">Sanctified Shadows Excerpt</h2>
+      <h2 style="font-size: 1.8rem; margin-top: 2rem;">Sanctified Shadows (Excerpt)</h2>
       <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h3>
       <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling. Set between the rural South and urban Northeast, it follows a family shaped by faith, silence, and ancestral memory. Through layered characters and spiritual ambiguity, the story explores what we inherit, what we suppress, and how we choose to heal. This glimpse reflects my creative process and the themes I return to—voice, identity, and transformation.</p>
       <iframe 
