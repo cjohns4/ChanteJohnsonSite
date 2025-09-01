@@ -207,7 +207,7 @@
       <h3>Cybersecurity & HIPAA in the Workplace Module</h3>
       <p>Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.</p>
       <iframe src="cybersecurity.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-      <p><a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
+      <p><a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;"> 📄 View or download the full presentation (PDF)</a></p>
 
       <!-- Health Equity Presentation -->
 <h3 id="health-equity-title" style="font-size: 1.5rem; margin-top: 2rem;">
@@ -219,7 +219,7 @@
 <iframe src="Delegation of Procurement Authority.pdf" width="100%" height="200" style="border: 1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
 <p>
   <a href="Delegation of Procurement Authority.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-    🗂️ Download the full presentation (.pptx)
+    📄 View or download the full presentation (PDF)
   </a>
 </p>
 
@@ -229,7 +229,7 @@
       <a href="YourThoughtsandFeelings.pdf" target="_blank" title="Download full presentation">
         <img src="Screenshot 2025-08-31 194321.png" alt="Slide preview: Public Speaking for Beginners" style="width: 90%; max-width: 400px; height: auto; border: 1px solid #ccc; border-radius: 8px; margin: 1.2rem 0;">
       </a>
-      <p><a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
+      <p><a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;"> 📄 View or download the full presentation (PDF)/a></p>
 
       <!-- Healthcare Training Module -->
       <h3>Healthcare Training Module</h3>
@@ -252,7 +252,7 @@
   style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
   loading="lazy">
 </iframe>
-      <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">🗂️ Narrative-Excerpt</a></p>
+      <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full PDF</a></p>
      
       <!-- Sanctified Shadows: A Glimpse into My Fictional World -->
       <h3>Sanctified Shadows (Excerpt)</h3>
@@ -263,7 +263,7 @@
   style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
   loading="lazy">
 </iframe>
-      <p><a href="Personal.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">🗂️ Creative-Writing-Excerpt</a></p>
+      <p><a href="Personal.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full PDF</a></p>
 
       <!-- Blog -->
       <h3>Blog</h3>
