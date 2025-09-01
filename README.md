@@ -217,12 +217,6 @@
       </a>
       <p><a href="Leveraging.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
 
-      <!-- Healthcare Training Module -->
-      <h3>Healthcare Training Module</h3>
-      <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.</p>
-      <iframe src="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-      <p><a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 eVitals Navigator – Role-Based Healthcare Onboarding</a></p>
-
       <!-- Public Speaking -->
       <h3 id="public-speaking-title" style="font-size: 1.5rem; margin-top: 2rem;">Ways to Improve Public Speaking</h3>
       <p>Public speaking hasn’t always come naturally to me—but over time, I’ve learned how structure, intention, and empathy can transform a message. This presentation offers the tools I wish I had starting out: ways to speak with clarity, manage nerves, and truly connect with an audience. It’s designed for professionals who want to lead with authenticity and presence.</p>
@@ -230,6 +224,12 @@
         <img src="Screenshot 2025-08-31 194321.png" alt="Slide preview: Public Speaking for Beginners" style="width: 90%; max-width: 400px; height: auto; border: 1px solid #ccc; border-radius: 8px; margin: 1.2rem 0;">
       </a>
       <p><a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
+
+      <!-- Healthcare Training Module -->
+      <h3>Healthcare Training Module</h3>
+      <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.</p>
+      <iframe src="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
+      <p><a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 eVitals Navigator – Role-Based Healthcare Onboarding</a></p>
 
       <!-- Microeconomics Module -->
       <h3>Microeconomics Module</h3>
