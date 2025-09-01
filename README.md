@@ -250,7 +250,7 @@
   style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
   loading="lazy">
 </iframe>
-      <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full PDF</a></p>
+      <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full (PDF)</a></p>
      
       <!-- Sanctified Shadows: A Glimpse into My Fictional World -->
       <h3>Sanctified Shadows (Excerpt)</h3>
@@ -261,7 +261,7 @@
   style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
   loading="lazy">
 </iframe>
-      <p><a href="Personal.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full PDF</a></p>
+      <p><a href="Personal.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full (PDF)</a></p>
 
       <!-- Blog -->
       <h3>Blog</h3>
