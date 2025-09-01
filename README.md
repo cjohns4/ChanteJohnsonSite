@@ -238,8 +238,8 @@
       <p><a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 Microeconomics for Columbia College</a></p>
 
       <!-- The Memory Keeper -->
-      <h2 style="font-size: 1.8rem; margin-top: 2rem;">The Memory Keeper (Excerpt)</h2>
-      <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h3>
+      <h3>The Memory Keeper (Excerpt)</h3>
+      <h4 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h4>
       <p>As a learning experience designer, I believe stories shape how we learn, connect, and grow. This excerpt from <em>The Memory Keeper</em> reflects the emotional lens I bring to my work—centered on voice, vulnerability, and the power of remembering.</p>
       <iframe 
   src="Memory.pdf" 
@@ -249,8 +249,8 @@
       <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">🗂️ Narrative-Excerpt</a></p>
      
       <!-- Sanctified Shadows: A Glimpse into My Fictional World -->
-      <h2 style="font-size: 1.8rem; margin-top: 2rem;">Sanctified Shadows (Excerpt)</h2>
-      <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h3>
+      <h3>Sanctified Shadows (Excerpt)</h3>
+      <h4 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h4>
       <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling. Set between the rural South and urban Northeast, it follows a family shaped by faith, silence, and ancestral memory. Through layered characters and spiritual ambiguity, the story explores what we inherit, what we suppress, and how we choose to heal. This glimpse reflects my creative process and the themes I return to—voice, identity, and transformation.</p>
       <iframe 
   src="Personal.pdf" 
