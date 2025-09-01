@@ -182,7 +182,10 @@
   </div>
 
 </div>
-
+<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
+  © 2025 Chante’ Johnson. All rights reserved.  
+  Content on this site may not be reproduced, distributed, or used without written permission.
+</footer>
 <!-- Banner  -->
    <div class="banner"></div>
 
@@ -255,6 +258,10 @@
     </div>
   </div>
 </section>
+<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
+  © 2025 Chante’ Johnson. All rights reserved.  
+  Content on this site may not be reproduced, distributed, or used without written permission.
+</footer>
   <hr>
   
 <!-- Banner  -->
@@ -275,8 +282,11 @@
   📄 Download Resume
 </a></p>
 
-  <hr>
-
+<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
+  © 2025 Chante’ Johnson. All rights reserved.  
+  Content on this site may not be reproduced, distributed, or used without written permission.
+</footer>
+<hr>
 <!-- Banner  -->
     <div class="banner"></div>
   
@@ -329,6 +339,10 @@
   </ul>
 
 </section>
+<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
+  © 2025 Chante’ Johnson. All rights reserved.  
+  Content on this site may not be reproduced, distributed, or used without written permission.
+</footer>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 <script>
