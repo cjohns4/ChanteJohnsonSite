@@ -143,7 +143,7 @@
 
     <!-- Bio Text -->
   <div style="flex: 1; min-width: 300px;">
-    <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Rooted in Story. Wired for Change</h1>
+    <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Rooted in Story. Wired for Change.</h1>
     <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
        <p>
     I’m Chante’ Johnson, a technologist and learning experience designer driven by clarity, inclusion, and lifelong learning. Originally from Harlem, New York, my journey has taken me across the East Coast and now to Texas—each chapter shaping how I approach design, communication, and growth. I see every challenge as a learning opportunity, and I bring that mindset into everything I create.
