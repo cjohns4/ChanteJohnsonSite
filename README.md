@@ -210,12 +210,18 @@
       <p><a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
 
       <!-- Health Equity Presentation -->
-      <h3 id="health-equity-title" style="font-size: 1.5rem; margin-top: 2rem;">Using Purchasing Power to Promote Health Equity</h3>
-      <p>This presentation explores how procurement policies can serve as strategic levers for advancing health equity. Designed for public sector professionals, it offers actionable approaches for aligning purchasing decisions with community well-being. I created the deck using PowerPoint, incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.</p>
-      <a href="Leveraging.pptx" target="_blank" title="Download full presentation">
-        <img src="Screenshot.png" alt="Slide preview: Using Purchasing Power to Promote Health Equity" style="width: 90%; max-width: 400px; height: auto; border: 1px solid #ccc; border-radius: 8px; margin: 1.2rem 0;">
-      </a>
-      <p><a href="Leveraging.pptx" target="_blank" style="color: #0078D4; text-decoration: none;">🗂️ Download the full presentation (.pptx)</a></p>
+<h3 id="health-equity-title" style="font-size: 1.5rem; margin-top: 2rem;">
+  Using Purchasing Power to Promote Health Equity
+</h3>
+<p>
+  This presentation explores how procurement policies can be used as strategic tools to advance health equity. Created for public sector professionals, it offers practical approaches to aligning purchasing decisions with community well-being. I designed the deck in PowerPoint, incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.
+</p>
+<iframe src="Delegation of Procurement Authority.pdf" width="100%" height="200" style="border: 1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
+<p>
+  <a href="Delegation of Procurement Authority.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
+    🗂️ Download the full presentation (.pptx)
+  </a>
+</p>
 
       <!-- Public Speaking -->
       <h3 id="public-speaking-title" style="font-size: 1.5rem; margin-top: 2rem;">Ways to Improve Public Speaking</h3>
