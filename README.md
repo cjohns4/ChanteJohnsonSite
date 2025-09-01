@@ -205,67 +205,62 @@
 
       <!-- Cybersecurity Module -->
       <h3>Cybersecurity & HIPAA in the Workplace Module</h3>
-      <p>Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.</p>
+      <p>Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA           compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.</p>
       <iframe src="cybersecurity.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
       <p><a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;"> 📄 View or download the full presentation (PDF)</a></p>
 
-      <!-- Health Equity Presentation -->
-<h3 style="color: #000;">Using Purchasing Power to Promote Health Equity</h3>
-<p style="color: #000;">
-  This presentation explores how procurement policies can be used as strategic tools to advance health equity. Created for public sector professionals, it offers practical approaches to aligning purchasing decisions with community well-being. I designed the deck in PowerPoint, incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.
-</p>
-<iframe src="Delegation of Procurement Authority.pdf" width="100%" height="200" style="border: 1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-<p style="color: #000;">
-  <a href="Delegation of Procurement Authority.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-    📄 View or download the full (PDF)
-  </a>
-</p>
+  <!-- Health Equity Presentation -->
+      <h3>Using Purchasing Power to Promote Health Equity</h3>
+      <p> This presentation explores how procurement policies can be used as strategic tools to advance health equity. Created for public sector professionals, it offers practical approaches to aligning purchasing decisions with community well-being. I designed the deck in PowerPoint,       incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.</p>
+      <iframe src="Delegation of Procurement Authority.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
+      <p><a href="Delegation of Procurement Authority.pdf" target="_blank" style="color: #0078D4; text-decoration: none;"> 📄 View or download the full presentation (PDF)</a></p>
 
-      <!-- Public Speaking -->
+
+  <!-- Public Speaking -->
       <h3 id="public-speaking-title" style="font-size: 1.5rem; margin-top: 2rem;">Ways to Improve Public Speaking</h3>
-      <p>Public speaking hasn’t always come naturally to me—but over time, I’ve learned how structure, intention, and empathy can transform a message. This presentation offers the tools I wish I had starting out: ways to speak with clarity, manage nerves, and truly connect with an audience. It’s designed for professionals who want to lead with authenticity and presence.</p>
+      <p>Public speaking hasn’t always come naturally to me—but over time, I’ve learned how structure, intention, and empathy can transform a message. This presentation offers the tools I wish I had starting out: ways to speak with clarity, manage nerves, and truly connect with an           audience. It’s designed for professionals who want to lead with authenticity and presence.</p>
       <a href="YourThoughtsandFeelings.pdf" target="_blank" title="Download full presentation">
         <img src="Screenshot 2025-08-31 194321.png" alt="Slide preview: Public Speaking for Beginners" style="width: 90%; max-width: 400px; height: auto; border: 1px solid #ccc; border-radius: 8px; margin: 1.2rem 0;">
       </a>
       <p><a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;"> 📄 View or download the full presentation (PDF)/a></p>
 
-      <!-- Healthcare Training Module -->
+ <!-- Healthcare Training Module -->
       <h3>Healthcare Training Module</h3>
-      <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.</p>
+      <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear,               intuitive guidance for navigating the eVitals system with confidence and compliance.</p>
       <iframe src="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
       <p><a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 eVitals Navigator – Role-Based Healthcare Onboarding</a></p>
 
-      <!-- Microeconomics Module -->
+<!-- Microeconomics Module -->
       <h3>Microeconomics Module</h3>
-      <p>As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module using HTML, CSS, Bootstrap, and GitHub Pages to help students explore market structures like monopolistic competition and oligopolies. The content is organized into clear, responsive sections with real-world context to support online learning.</p>
+      <p>As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module using HTML, CSS, Bootstrap, and GitHub Pages to help students explore market structures like monopolistic competition and oligopolies. The content is organized into clear,           responsive sections with real-world context to support online learning.</p>
       <iframe src="https://cjohns4.github.io/ECON-Module-Columbia/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-top:1rem;"></iframe>
       <p><a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 Microeconomics for Columbia College</a></p>
 
-      <!-- The Memory Keeper -->
+<!-- The Memory Keeper -->
       <h3>The Memory Keeper (Excerpt)</h3>
       <h4 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h4>
       <p>As a learning experience designer, I believe stories shape how we learn, connect, and grow. This excerpt from <em>The Memory Keeper</em> reflects the emotional lens I bring to my work—centered on voice, vulnerability, and the power of remembering.</p>
       <iframe 
-  src="Memory.pdf" 
-  style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
-  loading="lazy">
-</iframe>
+      src="Memory.pdf" 
+      style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
+      loading="lazy">
+      </iframe>
       <p><a href="Memory.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full (PDF)</a></p>
      
-      <!-- Sanctified Shadows: A Glimpse into My Fictional World -->
+<!-- Sanctified Shadows: A Glimpse into My Fictional World -->
       <h3>Sanctified Shadows (Excerpt)</h3>
       <h4 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h4>
-      <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling. Set between the rural South and urban Northeast, it follows a family shaped by faith, silence, and ancestral memory. Through layered characters and spiritual ambiguity, the story explores what we inherit, what we suppress, and how we choose to heal. This glimpse reflects my creative process and the themes I return to—voice, identity, and transformation.</p>
+      <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling. Set between the rural South and urban Northeast, it follows a family shaped by faith, silence, and ancestral memory. Through layered characters and          spiritual ambiguity, the story explores what we inherit, what we suppress, and how we choose to heal. This glimpse reflects my creative process and the themes I return to—voice, identity, and transformation.</p>
       <iframe 
-  src="Personal.pdf" 
-  style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
-  loading="lazy">
-</iframe>
+      src="Personal.pdf" 
+      style="width: 100%; height: 500px; border: 1px solid #ccc; border-radius: 8px; margin: 2rem 0;" 
+      loading="lazy">
+      </iframe>
       <p><a href="Personal.pdf" target="_blank" style="font-size: 1.1rem; color: #0078D4; text-decoration: none;">✍️ View or download the full (PDF)</a></p>
 
-      <!-- Blog -->
+<!-- Blog -->
       <h3>Blog</h3>
-      <p>This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners. From instructional strategies to tech tips, I explore how thoughtful design can empower people—not just inform them. If you're curious about how I build inclusive, learner-centered experiences, this is the place to start.</p>
+      <p>This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners. From instructional strategies to tech tips, I explore how thoughtful design can empower people—not just inform them. If you're curious about how I       build inclusive, learner-centered experiences, this is the place to start.</p>
       <iframe src="https://chanteshotspot.blogspot.com/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-top:1rem;"></iframe>
       <p><a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">🔗 Visit my blog</a></p>
 
