@@ -58,11 +58,10 @@ body {
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
-  position: relative;
-  overflow: hidden;
 }
 
-  .story-highlight::before {
+/* Sparkle overlay */
+.story-highlight::before {
   content: "";
   position: absolute;
   top: -50%;
@@ -76,16 +75,21 @@ body {
   z-index: 0;
 }
 
+/* Sparkle animation */
 @keyframes sparkle {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
 
+/* Ensure content stays above sparkles */
 .story-highlight > * {
   position: relative;
   z-index: 1;
 }
-.story-intro, .story-link {
+
+/* Text styling */
+.story-intro,
+.story-link {
   color: #FFDDC1;
 }
 
