@@ -12,7 +12,12 @@
   body {
     padding-top: 80px;
   }
-
+html, body {
+  font-size: 16px;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
   .banner {
     width: 100%;
     height: 300px;
