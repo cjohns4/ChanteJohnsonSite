@@ -140,9 +140,22 @@ body {
   text-align: left;
 }
 
-  @media (max-width: 600px) {
+.project-wrapper p {
+  font-size: 1.25rem;
+  line-height: 1.8;
+}
+
+/* Mobile iframe height */
+@media (max-width: 600px) {
   iframe {
     height: 300px;
+  }
+}
+
+/* Desktop font size boost */
+@media (min-width: 1024px) {
+  body {
+    font-size: 1.3rem; /* ~21px */
   }
 } 
 </style>
