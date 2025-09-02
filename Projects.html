@@ -11,28 +11,18 @@
 }
 
 body {
+  margin: 0;
   padding-top: 80px;
-  font-size: 1.125rem; /* 18px */
+  font-size: 1.125rem;
   font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.7;
   color: #333;
 }
-   h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
-  line-height: 1.3;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-}
 
-h1 { font-size: 2.5rem; }   /* ~40px */
-h2 { font-size: 2rem; }     /* ~32px */
-h3 { font-size: 1.75rem; }  /* ~28px */
-h4 { font-size: 1.5rem; }   /* ~24px */
-h5 { font-size: 1.25rem; }  /* ~20px */
-h6 { font-size: 1.125rem; } /* ~18px */
-p {
-  font-size: 1.125rem;
-  margin-bottom: 1rem;
+main, section, article, div, p {
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
   .banner {
@@ -133,7 +123,7 @@ p {
   }
    .project-wrapper {
   width: 100%;
-  padding: 2rem 5vw; 
+  padding: 2rem 2vw; 
 }
 
   @media (max-width: 600px) {
@@ -171,8 +161,7 @@ p {
    <div class="banner"></div>
 
 <!-- Projects Section Header -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: center; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h1>Project Highlights</h1>
     <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 2rem;">
       Each project reflects my commitment to inclusive, learner-centered design—where clarity, strategy, and storytelling come together to create meaningful experiences.
@@ -182,12 +171,10 @@ p {
 </section>
 
 <!-- Cybersecurity Module -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h2>Cybersecurity & HIPAA in the Workplace Module</h2>
     <p>Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.</p>
-    </div>
- <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
   <iframe 
     src="cybersecurity.pdf" 
     width="100%" 
@@ -204,12 +191,10 @@ p {
 </section>
 
 <!-- Health Equity Presentation -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h2>Using Purchasing Power to Promote Health Equity</h2>
     <p> This presentation explores how procurement policies can be used as strategic tools to advance health equity. Created for public sector professionals, it offers practical approaches to aligning purchasing decisions with community well-being. I designed the deck in PowerPoint, incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.</p>
-  </div>
-  <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
   <iframe 
     src="Delegation of Procurement Authority.pdf" 
     width="100%" 
@@ -226,12 +211,10 @@ p {
 </section>
 
 <!-- Public Speaking -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
    <h2>Ways to Improve Public Speaking</h2>
     <p>Public speaking hasn’t always come naturally to me—but over time, I’ve learned how structure, intention, and empathy can transform a message. This presentation offers the tools I wish I had starting out: ways to speak with clarity, manage nerves, and truly connect with an audience. It’s designed for professionals who want to lead with authenticity and presence.</p>
-  </div>
-  <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
   <iframe 
     src="YourThoughtsandFeelings.pdf" 
     width="100%" 
@@ -248,11 +231,9 @@ p {
 </section>
 
 <!-- Healthcare Training Module -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h2>Healthcare Training Module</h2>
     <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.</p>
-  </div>
   <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
     <iframe src="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
     <p>
@@ -264,12 +245,10 @@ p {
 </section>
 
 <!-- Microeconomics Module -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h2>Microeconomics Module</h2>
     <p>As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module using HTML, CSS, Bootstrap, and GitHub Pages to help students explore market structures like monopolistic competition and oligopolies. The content is organized into clear, responsive sections with real-world context to support online learning.</p>
-  </div>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
+   <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
     <iframe src="https://cjohns4.github.io/ECON-Module-Columbia/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
     <p>
       <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
@@ -280,13 +259,11 @@ p {
 </section>
 
 <!-- The Memory Keeper -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h2>The Memory Keeper (Excerpt)</h2>
     <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h3>
     <p>As a learning experience designer, I believe stories shape how we learn, connect, and grow. This excerpt from <em>The Memory Keeper</em> reflects the emotional lens I bring to my work—centered on voice, vulnerability, and the power of remembering.</p>
-  </div>
-  <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
   <iframe 
     src="Memory.pdf" 
     width="100%" 
@@ -303,13 +280,11 @@ p {
 </section>
 
 <!-- Sanctified Shadows -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h2>Sanctified Shadows (Excerpt)</h2>
     <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h3>
     <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling. Set between the rural South and urban Northeast, it follows a family shaped by faith, silence, and ancestral memory. Through layered characters and spiritual ambiguity, the story explores what we inherit, what we suppress, and how we choose to heal. This glimpse reflects my creative process and the themes I return to—voice, identity, and transformation.</p>
-  </div>
-  <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
   <iframe 
     src="Personal.pdf" 
     width="100%" 
@@ -326,12 +301,10 @@ p {
 </section>
 
 <!-- Blog -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+<section class="project-wrapper">
     <h2>Blog</h2>
     <p>This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners. From instructional strategies to tech tips, I explore how thoughtful design can empower people—not just inform them. If you're curious about how I build inclusive, learner-centered experiences, this is the place to start.</p>
-  </div>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
+   <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
     <iframe src="https://chanteshotspot.blogspot.com/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
     <p>
       <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">
