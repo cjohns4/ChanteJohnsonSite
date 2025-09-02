@@ -6,18 +6,29 @@
   <title>Chante' Johnson – Instructional Designer & Web Developer</title>
  <style>
   html {
-    scroll-behavior: smooth;
-  }
+  scroll-behavior: smooth;
+  font-size: 100%; /* Equivalent to 16px on most browsers */
+}
 
-  body {
-    padding-top: 80px;
-  }
-html, body {
-  font-size: 18px;
+body {
+  padding-top: 80px;
+  font-size: 1.125rem; /* 18px */
   font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.7;
   color: #333;
 }
+   h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  line-height: 1.3;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+}
+
   .banner {
     width: 100%;
     height: 300px;
@@ -48,7 +59,7 @@ html, body {
 
   .brand {
     color: #f5f5f5;
-    font-size: 1.2rem;
+    font-size: 1.5rem; /* 24px */
     font-weight: 700;
     letter-spacing: 0.5px;
   }
@@ -69,7 +80,7 @@ html, body {
   .nav-links a {
     color: #ffffff;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.125rem; /* 18px */
     font-weight: 600;
     transition: color 0.3s ease;
   }
@@ -114,6 +125,11 @@ html, body {
     color: #333;
     text-decoration: none;
   }
+  @media (max-width: 600px) {
+  iframe {
+    height: 300px;
+  }
+} 
 </style>
 </head>
 <body>
