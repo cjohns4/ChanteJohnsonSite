@@ -4,9 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Chante' Johnson – Instructional Designer & Web Developer</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
- * { box-sizing: border-box; }
  html {
   scroll-behavior: smooth;
   font-size: 100%; 
@@ -20,23 +19,6 @@ body {
   text-align: center;
   padding: 3rem 2vw;
   background-color: #f9f9f9;
-}
-
-.main-title {
-  font-size: 2.5rem;
-  font-weight: 700;
-   text-align: center;
-  color: #D35400; 
-  margin-bottom: 1rem;
-}
-
-.subtitle {
-  font-size: 1.25rem;
-  font-weight: 400;
-  color: #555;
-  max-width: 700px;
-  margin: 0 auto;
-  line-height: 1.6;
 }
   .banner {
     width: 100%;
@@ -125,7 +107,9 @@ body {
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     z-index: 1001;
   }
-
+    .dropdown.open {
+  display: block;
+}
   .dropdown li {
     margin: 0.5rem 0;
   }
@@ -134,39 +118,13 @@ body {
     color: #333;
     text-decoration: none;
   }
-   .project-wrapper {
-  width: 100%;
-  margin: 0 auto;
-  padding: 2rem clamp(1rem, 5vw, 3rem);
-  text-align: left;
-}
-.project-wrapper p {
-  font-size: 1.25rem;
-  line-height: 1.8;
-}
-  .project-wrapper h2 {
-    color: #D35400; 
-  }  
-  .project-wrapper h3 {
-  color: #6C3483;
-}
-
-.project-wrapper p {
-  color: #555;
-}   
+    
 /* Mobile iframe height */
 @media (max-width: 600px) {
   iframe {
     height: 300px;
   }
 }
-
-/* Desktop font size boost */
-@media (min-width: 1024px) {
-  body {
-    font-size: 1.25rem; /* ~20px */
-  }
-} 
 </style>
 </head>
 <body>
@@ -181,7 +139,7 @@ body {
       <li><a href="Experience.html">Resume</a></li>
       <li><a href="Contact.html">Contact</a></li>
       <li class="menu-icon">
-        <button onclick="toggleMenu()">☰</button>
+        <button onclick="toggleMenu()" aria-label="Toggle menu">☰</button>
         <ul class="dropdown" id="dropdownMenu">
           <li><a href="index.html">About</a></li>
           <li><a href="Projects.html">Projects</a></li>
@@ -203,7 +161,7 @@ body {
 </header>
 
 <!-- Cybersecurity Module -->
-<section class="project-wrapper">
+  <section>
     <h2>Cybersecurity & HIPAA in the Workplace Module</h2>
     <p>Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data. Through interactive lessons, real-world scenarios, and quick knowledge checks, I guide learners through the essentials of HIPAA compliance, secure sharing practices, breach response, and cloud safety. The course is built in Articulate Rise with accessibility and clarity at its core—perfect for hybrid teams, healthcare professionals, and anyone who handles protected information.</p>
     <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
@@ -223,7 +181,7 @@ body {
 </section>
 
 <!-- Health Equity Presentation -->
-<section class="project-wrapper">
+  <section>
     <h2>Using Purchasing Power to Promote Health Equity</h2>
     <p>This presentation explores how procurement policies can be used as strategic tools to advance health equity. Created for public sector professionals, it offers practical approaches to aligning purchasing decisions with community well-being. I designed the deck in PowerPoint, incorporating visual storytelling, plain language, and accessibility best practices to ensure clarity and impact across diverse audiences.</p>
     <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
@@ -240,10 +198,10 @@ body {
       </a>
     </p>
   </div>
-</section>
+ </section>
 
 <!-- Public Speaking -->
-<section class="project-wrapper">
+  <section>
   <h2>Ways to Improve Public Speaking</h2>
   <p>Public speaking hasn’t always come naturally to me—but over time, I’ve learned how structure, intention, and empathy can transform a message. This presentation offers the tools I wish I had starting out: ways to speak with clarity, manage nerves, and truly connect with an audience. It’s designed for professionals who want to lead with authenticity and presence.
   </p>
@@ -264,7 +222,7 @@ body {
 </section>
 
 <!-- Healthcare Training Module -->
-<section class="project-wrapper">
+    <section>
     <h2>Healthcare Training Module</h2>
     <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals, nursing homes, funeral homes, coroner offices, and the Pennsylvania Department of Health’s registered offices. Tailored by role, the module delivers clear, intuitive guidance for navigating the eVitals system with confidence and compliance.</p>
   <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
@@ -278,7 +236,7 @@ body {
 </section>
 
 <!-- Microeconomics Module -->
-<section class="project-wrapper">
+  <section>
     <h2>Microeconomics Module</h2>
     <p>As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module using HTML, CSS, Bootstrap, and GitHub Pages to help students explore market structures like monopolistic competition and oligopolies. The content is organized into clear, responsive sections with real-world context to support online learning.</p>
    <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
@@ -292,7 +250,7 @@ body {
 </section>
 
 <!-- The Memory Keeper -->
-<section class="project-wrapper">
+  <section>
     <h2>The Memory Keeper (Excerpt)</h2>
     <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h3>
     <p>As a learning experience designer, I believe stories shape how we learn, connect, and grow. This excerpt from <em>The Memory Keeper</em> reflects the emotional lens I bring to my work—centered on voice, vulnerability, and the power of remembering.</p>
@@ -313,7 +271,7 @@ body {
 </section>
 
 <!-- Sanctified Shadows -->
-<section class="project-wrapper">
+  <section>
     <h2>Sanctified Shadows (Excerpt)</h2>
     <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h3>
     <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling. Set between the rural South and urban Northeast, it follows a family shaped by faith, silence, and ancestral memory. Through layered characters and spiritual ambiguity, the story explores what we inherit, what we suppress, and how we choose to heal. This glimpse reflects my creative process and the themes I return to—voice, identity, and transformation.</p>
@@ -334,7 +292,7 @@ body {
 </section>
 
 <!-- The Waiting Place -->
-<section class="project-wrapper">
+  <section>
     <h2>The Waiting Place (Excerpt)</h2>
     <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em> Memoir & Fiction: Stories That Shape My Voice”</em></h3>
     <p>This piece explores devotion, memory, and the quiet spaces where love endures. It’s fiction—but it carries truths I return to often.</p>
@@ -355,7 +313,7 @@ body {
 </section>
 
 <!-- Blog -->
-<section class="project-wrapper">
+  <section>
     <h2>Blog</h2>
     <p>This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners. From instructional strategies to tech tips, I explore how thoughtful design can empower people—not just inform them. If you're curious about how I build inclusive, learner-centered experiences, this is the place to start.</p>
    <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
