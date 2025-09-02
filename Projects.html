@@ -60,41 +60,6 @@ body {
   box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
   border-left: 4px solid #F39C12;
 }
-
-/* Sparkle overlay */
-.story-highlight::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: radial-gradient(circle, #FFDDC1 2px, transparent 2px);
-  background-size: 8px 8px;
-  background-position: 0 0;
-  animation: sparkle 6s linear infinite;
-  pointer-events: none;
-  z-index: 0;
-}
-
-/* Sparkle animation */
-@keyframes sparkle {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-/* Ensure content stays above sparkles */
-.story-highlight > * {
-  position: relative;
-  z-index: 1;
-}
-
-/* Text styling */
-.story-intro,
-.story-link {
-  color: #FFDDC1;
-}
-
   .banner {
     width: 100%;
     height: 300px;
