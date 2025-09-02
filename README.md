@@ -366,20 +366,25 @@ p {
 <!-- Banner  -->
     <div class="banner"></div>
   
-<!-- Resume -->
-  <h2>📄 Resume</h2>
-  <p><a href="ChanteJohnson.pdf" target="_blank" style="
-  display: inline-block;
-  background-color: #D35400;
-  color: white;
-  padding: 0.75rem 1.5rem;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: bold;
-  margin-top: 1rem;
-">
-  📄 Download Resume
-</a></p>
+<!-- Experience Section -->
+  <div style="max-width: 1000px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
+    <h1>📄 Resume</h1>
+    </div>
+ <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
+  <iframe 
+    src="ChanteJohnson.pdf" 
+    width="100%" 
+    height="800" 
+    style="border: 1px solid #ccc; border-radius: 8px;"
+    title="ChanteJohnson.pdf"
+  ></iframe>
+    <p>
+      <a href="ChanteJohnson.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
+        📄 View or download Resume (PDF)
+      </a>
+    </p>
+  </div>
+</section>
 
 <footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
   © 2025 Chante’ Johnson. All rights reserved.  
