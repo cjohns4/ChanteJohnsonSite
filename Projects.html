@@ -6,9 +6,10 @@
   <title>Chante' Johnson – Instructional Designer & Web Developer</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
+ * { box-sizing: border-box; }
  html {
   scroll-behavior: smooth;
-  font-size: 100%; /* Equivalent to 16px on most browsers */
+  font-size: 100%; 
 }
 
 body {
@@ -136,10 +137,9 @@ body {
    .project-wrapper {
   width: 100%;
   margin: 0 auto;
-  padding: 2rem 2vw;
+  padding: 2rem clamp(1rem, 5vw, 3rem);
   text-align: left;
 }
-
 .project-wrapper p {
   font-size: 1.25rem;
   line-height: 1.8;
