@@ -26,7 +26,32 @@ body {
  body {
   background: linear-gradient(90deg, #FF6F61, #FFEC8B, #F9A602); 
   color: #333;
-} 
+}
+ .sparkle-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.sparkle {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: radial-gradient(circle, #fff 0%, #f4a6b0 100%);
+  border-radius: 50%;
+  animation: floatSparkle 3s infinite ease-in-out;
+  opacity: 0.8;
+}
+
+@keyframes floatSparkle {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100px) rotate(360deg);
+    opacity: 0;
+  }
+}     
 
 .site-header {
   text-align: center;
@@ -193,6 +218,14 @@ body {
 
 <!-- Banner  -->
    <div class="banner"></div>
+
+ <!--Header -->
+  <header style="display: flex; align-items: center; padding: 1rem 2rem;">
+    <img src="logo.png" alt="Chante' logo" style="height: 150px; margin-right: 1rem;">
+  </header>
+ 
+<!-- Main Content -->
+<div class="sparkle-container" style="position: relative;">  
 
 <!-- Projects Section Header -->
 <header class="site-header">
@@ -535,9 +568,18 @@ body {
     </a>
   </p>
   </div>
+
+   <!-- Sparkles (moved outside flex container) -->
+  <div class="sparkle" style="top: 20px; left: 40px;"></div>
+  <div class="sparkle" style="top: 100px; left: 120px;"></div>
+  <div class="sparkle" style="top: 180px; left: 200px;"></div>
+  <div class="sparkle" style="top: 60px; left: 300px;"></div>
+</div>
   <hr style="border: none; border-top: 2px solid #D35400; margin: 3rem 0;">  
 </section>
- <footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
+<footer style="text-align: center; padding: 2rem;">
+<img src="logo.png" alt="Chante' logo" style="height: 70px;">
+<p style="font-size: 0.9rem; color: #777;">Made with sparkle and semantic HTML by Chante’ Johnson</p
   © 2025 Chante’ Johnson. All rights reserved.  
   Content on this site may not be reproduced, distributed, or used without written permission.
 </footer>
