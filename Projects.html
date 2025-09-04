@@ -191,6 +191,30 @@ body {
     height: 300px;
   }
 }
+    .accordion-header {
+  background-color: #f5f0eb;
+  color: #3a2f2f;
+  padding: 1rem;
+  font-size: 1.2rem;
+  border: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.accordion-header:hover {
+  background-color: #e8e0d6;
+}
+
+.accordion-content {
+  display: none;
+  padding: 1rem;
+  background-color: #fffaf5;
+  border-top: 1px solid #ddd;
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+}
 </style>
 </head>
 <body>
@@ -482,114 +506,91 @@ body {
 </section>
   
 <!-- Sections for Writing -->
-<section id="creative-writing" style="margin-top: 3rem; text-align: center;">
-  <h2 style="
-    font-family: 'Georgia', serif;
-    color: #8B0000;
-    font-size: 2.5rem;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-  ">
-    Creative Writing ✨
-  </h2>
-  <p style="
-    font-size: 1.3rem;
-    line-height: 1.8;
-    max-width: 700px;
-    margin: 0 auto;
-    color: #333;
-  ">
-    A collection of lyrical short stories that explore memory, spirit, and the shimmer between worlds.  
-    These pieces reflect my love for poetic rhythm, emotional resonance, and storytelling as a form of care.
-  </p>
-</section>
-  
-<!-- The Memory Keeper -->
-  <section class="story-highlight centered-text">
-    <h2>The Memory Keeper (Excerpt)</h2>
-    <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h3>
-    <p>As a learning experience designer, I believe stories shape how we learn, connect, and grow. This excerpt from <em>The Memory Keeper</em> reflects the emotional lens I bring to my work—centered on voice, vulnerability, and the power of remembering.</p>
-    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
-  <iframe 
-    src="Memory1.pdf" 
-    width="100%" 
-    height="600" 
-    style="border: 1px solid #ccc; border-radius: 8px;"
-    title="Memory1.pdf"
-  ></iframe>
-    <p>
-      <a href="Memory1.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full (PDF)
-      </a>
-    </p>
-  </div>
-</section>
-
-<!-- Sanctified Shadows -->
-   <section class="story-highlight centered-text">
-    <h2>Sanctified Shadows (Excerpt)</h2>
-    <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h3>
-    <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling. Set between the rural South and urban Northeast, it follows a family shaped by faith, silence, and ancestral memory. Through layered characters and spiritual ambiguity, the story explores what we inherit, what we suppress, and how we choose to heal. This glimpse reflects my creative process and the themes I return to—voice, identity, and transformation.</p>
-    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
-  <iframe 
-    src="Personal1.pdf" 
-    width="100%" 
-    height="600" 
-    style="border: 1px solid #ccc; border-radius: 8px;"
-    title="Personal1.pdf"
-  ></iframe>
-    <p>
-      <a href="Personal1.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full (PDF)
-      </a>
-    </p>
-  </div>
-</section>
+<div class="accordion">
 
 <!-- The Waiting Place -->
-  <section class="story-highlight centered-text">
-    <h2>The Waiting Place</h2>
-    <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em> Memoir & Fiction: Stories That Shape My Voice</em></h3>
-    <p> A short story about love, loss, and the quiet persistence of memory. Evelyn returns to the same bench beneath an old oak tree, believing love is stronger than death. What unfolds is a tender, spectral reunion that transcends time.
-.</p>
-    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
-  <iframe 
-    src="The Waiting Place.pdf" 
-    width="100%" 
-    height="600" 
-    style="border: 1px solid #ccc; border-radius: 8px;"
-    title="The Waiting Place.pdf"
-  ></iframe>
-    <p>
-      <a href="The Waiting Place.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full (PDF)
-      </a>
-    </p>
+  <button class="accordion-header">The Waiting Place</button>
+  <div class="accordion-content">
+    <p>For forty years, she returned to the same spot. 
+ 
+A weathered bench beneath an old oak tree, its branches reaching like arms toward the sky. The seasons changed around her—spring blossoms, summer heat, autumn leaves, winter frost—but she remained, a quiet figure wrapped in memory. 
+ 
+Her name was Evelyn, and she was eighty-three years old. Every morning, she dressed in the same soft blue shawl he once said brought out the color in her eyes. She walked slowly, cane tapping the sidewalk, until she reached the bench where they had once sat, laughed, kissed, and dreamed. 
+ 
+Her lover, Thomas, had died forty years ago. A car accident on a rainy night. No goodbye. 
+No last words. Just silence. 
+ 
+But Evelyn never accepted that silence. She believed love was stronger than death. So she waited. 
+ 
+ 
+Her children called. Her sister knocked. Neighbors worried. But Evelyn didn’t answer. She had made her choice. She would wait in the place where love had once bloomed, believing that one day, somehow, he would return. 
+ 
+What she didn’t know was that Thomas did return—just not in the way she hoped. 
+ 
+His spirit came often, drawn by the pull of her devotion. He sat beside her on the bench, invisible to her eyes but aching with love. He whispered her name. He wrapped his arms around her frail shoulders. He kissed her forehead. But she never felt it. 
+ 
+ 
+She stared ahead, eyes misty with memory, unaware of the warmth that surrounded her. 
+ 
+And Thomas, bound by the laws of the spirit world, could only watch. He could not speak. 
+He could not touch. He could only love. 
+So he stayed too. 
+ 
+ 
+Two souls, one living, one departed, bound by a love that defied time and space. One waiting. One watching. 
+And the bench beneath the old oak tree became sacred ground—a place where love never died, even when everything else did. 
+</p>
   </div>
-</section>
+
+<!-- Sanctified Shadows -->
+  <button class="accordion-header">Sanctified Shadows</button>
+  <div class="accordion-content">
+    <p>I’ve always been drawn to stories that live in the margins—between memory and myth, silence and testimony, sacred and haunted. Sanctified Shadows is one of those stories. It’s a work of fiction I’ve been developing over time, rooted in spiritual tension, generational reckoning, and the quiet power of those who endure. 
+The idea came to me not as a plot, but as a feeling. A pulpit. A journal. A daughter returning to a place she never truly understood. I didn’t know the full story yet, but I knew the atmosphere: red clay roads, whispered prayers, and spirits that don’t stay buried. I knew I wanted to explore what happens when faith becomes a mask, when silence becomes survival, and when legacy refuses to stay in the past. 
+At its heart, Sanctified Shadows follows a man—a preacher—whose spiritual gifts are tangled with trauma. He’s revered in his community, but haunted in private. His wife, Sheila, speaks little, but sees everything. Her silence isn’t weakness; it’s resistance. And their daughter, long estranged, returns years later to find a journal tucked behind the pulpit. What she finds inside isn’t just her father’s truth—it’s her own inheritance. 
+I write this story in fragments. Sometimes through sermons, sometimes through dreams. 
+Sometimes through the quiet rituals of women who were never asked what they believed. The spirits in this story aren’t just ghosts—they’re memory, metaphor, and maybe something more. I leave that ambiguity on purpose. I want readers to wrestle with what’s real, what’s imagined, and what’s inherited. 
+This project is deeply personal. It draws from places I’ve lived, voices I’ve heard, and questions I’ve carried. It’s not autobiographical, but it’s emotionally true. I’m interested in the ways we carry our histories—in our bodies, our beliefs, our silences. I’m interested in the tension between survival and transformation. 
+I’m sharing this glimpse not to give away the story, but to honor the process. Sanctified Shadows is still unfolding. It’s a layered, atmospheric work that blends literary fiction with spiritual realism. It’s part Southern Gothic, part ancestral meditation, and part emotional excavation. 
+If you’re curious about the intersection of storytelling, identity, and voice, this is the kind of work I create when I’m not designing learning experiences or building digital solutions. It’s where I explore the deeper questions—about who we are, what we inherit, and how we choose to heal. 
+Thank you for reading. 
+</p>
+  </div>
+
+<!-- The Memory Keeper  -->
+  <button class="accordion-header">The Memory Keeper </button>
+  <div class="accordion-content">
+    <p>I was born with memory. Not just the kind that forms in childhood, but the kind that reaches backward—into rooms I never entered, voices I never heard, and stories I somehow knew. My earliest recollections weren’t toys or lullabies, but shadows and silence—the kind that teaches you to listen before you speak. 
+Growing up, I learned to read people the way others read books. I could sense the weight they carried, the truths they hid, and the love they longed for. I didn’t know it was a gift then. I just knew I was different. 
+In a world that often overlooks quiet girls—watchful, intuitive, slow to speak—I became my own witness. I remembered what others forgot. I held onto what others buried. And in doing so, I began to write. 
+My upbringing was a blend of resilience and quiet observation. I watched my mother navigate systems that weren’t built for her, and I learned the language of survival through her strength. I saw how silence could be both a shield and a prison, and I chose to break it with words. 
+There were moments when I felt invisible—not because I lacked presence, but because the world wasn’t ready to see me. I carried the weight of contradiction—never quite fitting into one box, always asked to explain. But in that space of ambiguity, I found clarity. I found voice. 
+Writing became my altar. Each sentence a prayer, each paragraph a reckoning. I wrote to remember, to reclaim, to resist. I wrote for the girls who were told they were too quiet, too complicated, too much. I wrote for myself. 
+The Memory Keeper is not just a title—it’s a calling. It’s the role I’ve accepted as someone who holds stories that matter. Stories that heal. Stories that challenge. Stories that survive. 
+This excerpt is a glimpse into that journey—a journey of spirit, shadows, and survival. 
+ 
+</p>
+  </div>
 
 <!-- Echoes Beyond the Veil -->
-  <section class="story-highlight centered-text">
-    <h2>Echoes Beyond the Veil</h2>
-    <h3 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em> Music wasn’t just sound. It was spirit in motion. Memory with wings.</em></h3>
-    <p> Amara discovers that sound can unlock hidden dimensions, guiding her through time and memory.  
-      A haunting frequency leads her on a journey of ancestral echoes, jazz clubs, desert rituals, and soul-mending vibrations.
-.</p>
-    <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
-  <iframe 
-    src="Echoes Beyond the Veil.pdf" 
-    width="100%" 
-    height="600" 
-    style="border: 1px solid #ccc; border-radius: 8px;"
-    title="Echoes Beyond the Veil.pdf"
-  ></iframe>
-    <p>
-      <a href="Echoes Beyond the Veil.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full (PDF)
-      </a>
-    </p>
+  <button class="accordion-header">Echoes Beyond the Veil</button>
+  <div class="accordion-content">
+    <p>There are places the body cannot go—but the soul? The soul dances there.
+And sometimes, all it takes is a sound.
+For Amara, music wasn’t just melody—it was memory stitched in rhythm, movement wrapped in mystery. One quiet night, cocooned in headphones and moonlight, she heard it: a haunting frequency that curled through her bones like smoke. It wasn’t just a song. It was a spell. A doorway.
+The moment the note bent into that impossible pitch, her spirit slipped free. Her body stayed nestled in bed, but her consciousness floated—weightless as breath, quick as longing. She wasn’t just astral traveling. She was time-surfing on soundwaves.
+She landed in a 1920s jazz club, velvet curtains swaying like secrets, brass horns crooning like old lovers. She danced with strangers who felt like déjà vu. Then the music shifted—low, earthy, ancient—and she was in a desert under a starlit sky, surrounded by elders who sang to the moon in a language older than fire.
+Each sound was a map. Each vibration, a compass. They guided her to forgotten eras, buried emotions, hidden truths.
+She learned that music was the first language—the one that came before words. A vibration that could pierce dimensions, mend soul-fractures, and whisper secrets only the heart could hear. The right chord could summon ancestors. The right rhythm could unlock lifetimes tucked behind the veil.
+And the most powerful songs? They weren’t composed. They were remembered.
+Amara began crafting her own frequencies, weaving tones that shimmered with her soul’s story. She called them “echoes,” because they didn’t just play—they returned. Returned her to places she’d loved. Returned her to people she’d lost. Returned her to herself.
+In the end, she understood: music wasn’t just sound.
+It was spirit in motion.
+It was memory with wings.
+It was her.
+</p>
   </div>
-</section>  
+</div>
 
 <!-- Blog Section -->
 <section id="blog" style="margin-top: 4rem; padding: 2rem 1rem; text-align: center;">
@@ -651,6 +652,26 @@ body {
       }
     }
   };
+</script>
+
+<script>
+  const headers = document.querySelectorAll('.accordion-header');
+
+  headers.forEach(header => {
+    header.addEventListener('click', () => {
+      const content = header.nextElementSibling;
+
+      // Close all other sections
+      document.querySelectorAll('.accordion-content').forEach(section => {
+        if (section !== content) {
+          section.style.display = 'none';
+        }
+      });
+
+      // Toggle current section
+      content.style.display = content.style.display === 'block' ? 'none' : 'block';
+    });
+  });
 </script>
 
 </body>
