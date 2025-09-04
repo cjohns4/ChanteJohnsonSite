@@ -142,6 +142,36 @@ body {
     height: 300px;
   }
 } 
+  /* PDF iframe styling */
+    iframe {
+      position: absolute;
+      top: 80px; /* height of banner */
+      left: 0;
+      width: 100%;
+      height: calc(100% - 80px);
+      border: none;
+      z-index: 0;
+    }
+
+    /* Download button */
+    .download-link {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background-color: #0078D4;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: bold;
+      font-family: sans-serif;
+      z-index: 3;
+    }
+
+    .download-link:hover {
+      background-color: #005A9E;
+    }
+
 </style>
 </head>
 <body>
@@ -180,7 +210,7 @@ body {
     Resume
   </h1>
 </section>
-
+<div class="sparkle"></div>
 <section style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe 
     src="ChanteJohnson.pdf" 
@@ -188,11 +218,8 @@ body {
     height="800" 
     style="border: 1px solid #ccc; border-radius: 8px;" 
     title="Embedded Resume PDF"
-  ></iframe>
-  <p style="text-align: center; margin-top: 1rem;">
-    <a href="ChanteJohnson.pdf" download target="_blank" style="color: #0078D4; font-weight: bold; text-decoration: underline;">
-      📄 Download Resume (PDF)
-    </a>
+   <iframe src="ChanteJohnson.pdf" title="Full-page Resume PDF"></iframe>
+  <a href="ChanteJohnson.pdf" download class="download-link">📄 Download Resume</a>
   </p>
   
   <!-- Sparkles (moved outside flex container) -->
