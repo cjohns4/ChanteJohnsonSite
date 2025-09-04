@@ -191,29 +191,62 @@ body {
     height: 300px;
   }
 }
-    .accordion-header {
-  background-color: #f5f0eb;
-  color: #3a2f2f;
-  padding: 1rem;
-  font-size: 1.2rem;
+    accordion {
+  max-width: 800px;
+  margin: 2.5rem auto;
+  font-family: 'Palatino Linotype', serif;
+}
+
+.accordion-header {
+  background: linear-gradient(to right, #8B0000, #A52A2A);
+  color: #fff;
+  padding: 1rem 1.2rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: left;
   border: none;
   width: 100%;
-  text-align: left;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  transition: background 0.3s ease;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
 }
 
 .accordion-header:hover {
-  background-color: #e8e0d6;
+  background: linear-gradient(to right, #A52A2A, #8B0000);
 }
 
 .accordion-content {
+  background-color: #fdf6f0;
+  padding: 1.2rem 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  margin-bottom: 1.5rem;
   display: none;
-  padding: 1rem;
-  background-color: #fffaf5;
-  border-top: 1px solid #ddd;
-  font-family: 'Georgia', serif;
-  line-height: 1.6;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+.accordion-content p {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333;
+}
+
+.accordion-content .emphasis {
+  font-style: italic;
+  color: #8B0000;
+}
+
+.accordion-content .final-line {
+  font-weight: bold;
+  color: #5C1E1E;
+  margin-top: 1.5rem;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 </style>
 </head>
@@ -510,23 +543,26 @@ body {
   <h2 style="
     font-family: 'Georgia', serif;
     color: #8B0000;
-    font-size: 2.5rem;
+    font-size: 2.75rem;
     font-weight: bold;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.5px;
   ">
     Creative Writing
   </h2>
   <p style="
-    font-size: 1.3rem;
-    line-height: 1.8;
-    max-width: 700px;
+    font-size: 1.35rem;
+    line-height: 1.9;
+    max-width: 720px;
     margin: 0 auto;
-    color: #333;
+    color: #444;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   ">
-   A series of short, lyrical narratives that examine themes of memory, spirit, and the spaces between worlds. These pieces reflect my approach to storytelling as a thoughtful practice—grounded in rhythm, 
-    emotional clarity, and the belief that language can foster connection and care.
+    These lyrical narratives explore memory, spirit, and the quiet spaces between worlds. Each piece is a meditation—woven with rhythm, emotional clarity, and the belief that language can be both sanctuary and bridge. I write to honor what lingers, what heals, and what dares to speak.
   </p>
-</section>  
+</section>
+
+ 
 <div class="accordion">
 
 <!-- The Waiting Place -->
@@ -674,19 +710,9 @@ body {
 
 <script>
   const headers = document.querySelectorAll('.accordion-header');
-
   headers.forEach(header => {
     header.addEventListener('click', () => {
       const content = header.nextElementSibling;
-
-      // Close all other sections
-      document.querySelectorAll('.accordion-content').forEach(section => {
-        if (section !== content) {
-          section.style.display = 'none';
-        }
-      });
-
-      // Toggle current section
       content.style.display = content.style.display === 'block' ? 'none' : 'block';
     });
   });
