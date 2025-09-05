@@ -146,6 +146,7 @@ p {
     <ul class="nav-links">
       <li><a href="index.html">About</a></li>
       <li><a href="Projects.html">Projects</a></li>
+      <li><a href="narrative.html">Writing</a></li>
       <li><a href="Experience.html">Resume</a></li>
       <li><a href="Contact.html">Contact</a></li>
       <li class="menu-icon">
@@ -153,8 +154,10 @@ p {
         <ul class="dropdown" id="dropdownMenu">
           <li><a href="index.html">About</a></li>
           <li><a href="Projects.html">Projects</a></li>
+          <li><a href="narrative.html">Writing</a></li>
           <li><a href="Experience.html">Resume</a></li>
           <li><a href="Contact.html">Contact</a></li>
+         
         </ul>
       </li>
     </ul>
@@ -302,40 +305,6 @@ p {
     <p>
       <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
         🔗 Microeconomics for Columbia College
-      </a>
-    </p>
-  </div>
-</section>
-
-<!-- The Memory Keeper -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3>The Memory Keeper (Excerpt)</h3>
-    <h4 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>Why I Write</em></h4>
-    <p>As a learning experience designer, I believe stories shape how we learn, connect, and grow...</p>
-  </div>
-  <div style="max-width: 600px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="Memory.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="Memory.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full (PDF)
-      </a>
-    </p>
-  </div>
-</section>
-
-<!-- Sanctified Shadows -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3>Sanctified Shadows (Excerpt)</h3>
-    <h4 style="font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem;"><em>A literary work-in-progress exploring legacy, silence, and spiritual tension across generations.</em></h4>
-    <p><em>Sanctified Shadows</em> is a deeply personal fiction project that blends emotional realism with atmospheric storytelling...</p>
-  </div>
-  <div style="max-width: 600px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="Personal.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="Personal.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full (PDF)
       </a>
     </p>
   </div>
