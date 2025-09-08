@@ -135,6 +135,19 @@ p {
     height: 300px;
   }
 } 
+@media (max-width: 600px) {
+  .nav-links a {
+    font-size: 0.85rem; /* ≈13.6px */
+  }
+
+  .dropdown li a {
+    font-size: 0.85rem;
+  }
+
+  .nav-links li {
+    margin-left: 1rem; /* reduce spacing between tabs */
+  }
+}
 </style>
 </head>
 <body>
@@ -142,8 +155,7 @@ p {
 <!-- Navigation -->
 <nav class="top-nav" role="navigation" aria-label="Main navigation">
   <div class="nav-container">
-    <div class="brand" style="text-align: left;">Chante' Johnson</div>
-    <ul class="nav-links">
+       <ul class="nav-links">
       <li><a href="index.html">About</a></li>
       <li><a href="Projects.html">Projects</a></li>
       <li><a href="narrative.html">Writing</a></li>
