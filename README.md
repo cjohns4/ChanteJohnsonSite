@@ -352,11 +352,11 @@ p {
     </div>
  <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe 
-    src="ChanteJohnson.pdf" 
+    src="Resumeupdate.pdf" 
     width="100%" 
     height="800" 
     style="border: 1px solid #ccc; border-radius: 8px;"
-    title="ChanteJohnson.pdf"
+    title="Resumeupdate.pdf"
   ></iframe>
     <p>
       <a href="ChanteJohnson.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
