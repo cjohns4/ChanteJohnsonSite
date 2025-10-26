@@ -193,10 +193,9 @@ p {
    This site is fully hand-coded and personally designed—a reflection of thoughtful craft, care, and my commitment to equity, clarity, and innovation. It’s more than a portfolio; it’s a living expression of design that teaches, resonates, and uplifts.
   </p>
 
-  <h3>How can I help you?</h3>
-  <p>
-    Let’s create learning that resonates—clear, inclusive, and built with purpose. I believe education should meet people where they are, honor their lived experiences, and equip them with the tools to grow, adapt, and thrive. My goal is to design content that doesn’t just deliver information, but inspires confidence and sparks meaningful change. Please <a href="mailto:chantej1@yahoo.com?subject=Inquiry from Portfolio Site">contact me</a> and discover what we can build together.
-  </p>
+ <h2>Let’s Create Learning That Resonates.</h2>
+        <p>I develop content that’s clear, inclusive, and intentionally built. If you’re envisioning a project, seeking collaboration, or exploring new possibilities—I’d love to connect. Reach out and let’s discover what we can build together. Please <a href="mailto:chantej1@yahoo.com?subject=Inquiry from Portfolio Site">contact me</a> 
+          and discover what we can build together.</p>
 </div>
   </div>
 
