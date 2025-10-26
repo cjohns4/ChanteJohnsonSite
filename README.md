@@ -183,30 +183,14 @@ p {
 
     <!-- Bio Text -->
   <div style="flex: 1; min-width: 300px;">
-    <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;"> Wired for Change. Eyes on the Horizon.</h1>
+    <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;"> I’m Chante’ Johnson—Instructional Web Developer, Learning Experience Designer, and Creative Technologist.</h1>
     <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
        <p>
-    I’m Chante’ Johnson, a technologist and learning experience designer driven by clarity, inclusion, and lifelong learning. Originally from Harlem, New York, my journey has taken me across the East Coast and now to Texas—each chapter shaping how I approach design, communication, and growth. I see every challenge as a learning opportunity, and I bring that mindset into everything I create.
+   I specialize in building accessible, responsive training tools that empower real people—whether through hand-coded web modules, LMS-integrated courses, or strategic professional development. With an M.A. in Learning, Design & Technology (in progress), a B.S. in Computer Science, and an A.S. in Computer Information Systems, I blend technical fluency with human-centered design to create experiences that are clear, inclusive, and deeply intentional.
   </p>
 
   <p>
-    My name, given to me by my aunt, is French for “to sing”—and I’ve always believed in the power of voice, whether through storytelling, design, or digital strategy. I love reading, traveling, and gaining new skills that keep me curious and connected.
-  </p>
-
-  <p><strong>Academically, my path reflects the layered approach I bring to my work:</strong></p>
-  <ul>
-    <li>
-      My <strong>Master of Arts in Learning, Design, and Technology</strong> integrates instructional strategy, curriculum development, and digital learning leadership. Through courses like Instructional Methods for Digital Environments, Online Teaching Design, Assessment and Evaluation, and Issues and Trends in Digital Learning, I’ve built a foundation for designing inclusive, learner-centered experiences that are both strategic and innovative.
-    </li>
-    <li>
-      My <strong>Bachelor of Science in Computer Science</strong> combines business principles with technical fluency in front-end development, databases, networking, and systems architecture. With coursework in Advanced Programming, Business Analytics, Corporate Finance, and Strategic Planning, I’ve developed the skills to build scalable, user-centered digital solutions that support real-world impact.
-    </li>
-    <li>
-      My <strong>Associate of Science in Computer Information Systems</strong> provided hands-on training in advanced WAN/LAN networking, server patching, scripting, and hardware configuration. I also developed an advanced understanding of Microsoft Office products—including Excel, Word, Access, and PowerPoint—which continue to support my work in documentation, data analysis, and instructional design. The program included coursework in accounting, business applications, and statistics, giving me a practical foundation in both technical systems and analytical thinking.
-    </li>
-  </ul>
-  <p>
-    To reflect my skills and values, I built this portfolio site from the ground up—writing every line of code and designing every section to showcase not just what I do, but who I am: someone committed to innovation, equity, and using technology to make a meaningful impact.
+   This site is fully hand-coded and personally designed—a reflection of thoughtful craft, care, and my commitment to equity, clarity, and innovation. It’s more than a portfolio; it’s a living expression of design that teaches, resonates, and uplifts.
   </p>
 
   <h3>How can I help you?</h3>
