@@ -335,14 +335,14 @@ p {
     </div>
  <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
   <iframe 
-    src="Resumeupdate.pdf" 
+    src="CJR.pdf" 
     width="100%" 
     height="800" 
     style="border: 1px solid #ccc; border-radius: 8px;"
-    title="Resumeupdate.pdf"
+    title="CJR.pdf"
   ></iframe>
     <p>
-      <a href="ChanteJohnson.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
+      <a href="CJR.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
         📄 View or download Resume (PDF)
       </a>
     </p>
