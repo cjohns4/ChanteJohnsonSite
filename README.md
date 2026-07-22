@@ -206,7 +206,7 @@ p {
 
 </div>
 <footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
-  © 2025 Chante’ Johnson. All rights reserved.  
+  © 2026 Chante’ Johnson. All rights reserved.  
   Content on this site may not be reproduced, distributed, or used without written permission.
 </footer>
 <!-- Banner  -->
@@ -321,7 +321,7 @@ p {
   <hr style="border: none; border-top: 2px solid #D35400; margin: 3rem 0;">
 </section>
 <footer style="max-width: 600px; margin: 3rem auto; text-align: right; font-size: 0.9rem; color: #666;">
-  © 2025 Chante’ Johnson. All rights reserved.  
+  © 2026 Chante’ Johnson. All rights reserved.  
   Content on this site may not be reproduced, distributed, or used without written permission.
 </footer>
   <hr>
@@ -350,7 +350,7 @@ p {
 </section>
 
 <footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
-  © 2025 Chante’ Johnson. All rights reserved.  
+  © 2026 Chante’ Johnson. All rights reserved.  
   Content on this site may not be reproduced, distributed, or used without written permission.
 </footer>
 <hr>
@@ -404,7 +404,7 @@ p {
 
 </section>
 <footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
-  © 2025 Chante’ Johnson. All rights reserved.  
+  © 2026 Chante’ Johnson. All rights reserved.  
   Content on this site may not be reproduced, distributed, or used without written permission.
 </footer>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
