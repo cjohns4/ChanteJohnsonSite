@@ -182,22 +182,17 @@ p {
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; padding: 3rem 2rem; max-width: 1200px; margin: auto; gap: 2rem;">
 
     <!-- Bio Text -->
-  <div style="flex: 1; min-width: 300px;">
-    <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;"> I’m Chante’ Johnson—Instructional Web Developer, Learning Experience Designer, and Creative Technologist.</h1>
-    <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
-       <p>
-   I specialize in building accessible, responsive training tools that empower real people—whether through hand-coded web modules, LMS-integrated courses, or strategic professional development. With an M.A. in Learning, Design & Technology (in progress), a B.S. in Computer Science, and an A.S. in Computer Information Systems, I blend technical fluency with human-centered design to create experiences that are clear, inclusive, and deeply intentional.
-  </p>
-
-  <p>
-   This site is fully hand-coded and personally designed—a reflection of thoughtful craft, care, and my commitment to equity, clarity, and innovation. It’s more than a portfolio; it’s a living expression of design that teaches, resonates, and uplifts.
-  </p>
-
- <h2>Let’s Create Learning That Resonates.</h2>
+      <div style="flex: 1; min-width: 300px;">
+      <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">I’m Chante’ Johnson—an IT Systems Support Specialist and Learning Experience Designer with 20+ years supporting enterprise and healthcare environments.</h1>
+      <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
+        <p>I blend technical troubleshooting, systems administration, and user‑focused training to help clinics, teams, and statewide organizations adopt technology with confidence. Whether resolving complex issues, implementing EHR workflows, or building clear, accessible learning tools, my work is rooted in clarity, reliability, and human‑centered design.</p>
+        <p>This site reflects that blend of technical skill and thoughtful craft—hand‑coded, intentionally designed, and built to make complex systems feel simple.</p>
+       
+        <h2>Let’s Create Learning That Resonates.</h2>
         <p>I develop content that’s clear, inclusive, and intentionally built. If you’re envisioning a project, seeking collaboration, or exploring new possibilities—I’d love to connect. Reach out and let’s discover what we can build together. Please <a href="mailto:chantej1@yahoo.com?subject=Inquiry from Portfolio Site">contact me</a> 
           and discover what we can build together.</p>
-</div>
-  </div>
+      </div>
+    </div>
 
   <!-- Profile Photo -->
   <div style="flex: 0 0 280px; text-align: center;">
