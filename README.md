@@ -199,9 +199,10 @@ p {
   </div>
 
 </div>
-<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
-  © 2026 Chante’ Johnson. All rights reserved.  
-  Content on this site may not be reproduced, distributed, or used without written permission.
+<footer style="text-align: center; padding: 2rem;">
+  <img src="logo.png" alt="Chante' logo" style="height: 70px;">
+  <p style="font-size: 0.75rem; color: #777;">Made with sparkle and semantic HTML by Chante' Johnson</p>
+  <p style="font-size: 0.65rem; color: #777; margin-top: 0.5rem;">© 2026 Chante' Johnson. All rights reserved.</p>
 </footer>
 <!-- Banner  -->
    <div class="banner"></div>
@@ -314,9 +315,10 @@ p {
   </div>
   <hr style="border: none; border-top: 2px solid #D35400; margin: 3rem 0;">
 </section>
-<footer style="max-width: 600px; margin: 3rem auto; text-align: right; font-size: 0.9rem; color: #666;">
-  © 2026 Chante’ Johnson. All rights reserved.  
-  Content on this site may not be reproduced, distributed, or used without written permission.
+<footer style="text-align: center; padding: 2rem;">
+  <img src="logo.png" alt="Chante' logo" style="height: 70px;">
+  <p style="font-size: 0.75rem; color: #777;">Made with sparkle and semantic HTML by Chante' Johnson</p>
+  <p style="font-size: 0.65rem; color: #777; margin-top: 0.5rem;">© 2026 Chante' Johnson. All rights reserved.</p>
 </footer>
   <hr>
   
@@ -368,9 +370,10 @@ p {
   </ul>
 
 </section>
-<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
-  © 2026 Chante’ Johnson. All rights reserved.  
-  Content on this site may not be reproduced, distributed, or used without written permission.
+<footer style="text-align: center; padding: 2rem;">
+  <img src="logo.png" alt="Chante' logo" style="height: 70px;">
+  <p style="font-size: 0.75rem; color: #777;">Made with sparkle and semantic HTML by Chante' Johnson</p>
+  <p style="font-size: 0.65rem; color: #777; margin-top: 0.5rem;">© 2026 Chante' Johnson. All rights reserved.</p>
 </footer>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
