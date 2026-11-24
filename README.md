@@ -321,36 +321,7 @@ p {
 </footer>
   <hr>
   
-<!-- Banner  -->
-    <div class="banner"></div>
-  
-<!-- Experience Section -->
-  <div style="max-width: 1000px; margin: 0 auto; text-align: left; padding: 2rem 1rem;">
-    <h1>📄 Resume</h1>
-    </div>
- <div style="max-width: 1000px; margin: 0 auto; padding: 1rem;">
-  <iframe 
-    src="resume CJ.pdf" 
-    width="100%" 
-    height="800" 
-    style="border: 1px solid #ccc; border-radius: 8px;"
-    title="resume CJ.pdf"
-  ></iframe>
-    <p>
-      <a href="resume CJ.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download Resume (PDF)
-      </a>
-    </p>
-  </div>
-</section>
 
-<footer style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 3rem;">
-  © 2026 Chante’ Johnson. All rights reserved.  
-  Content on this site may not be reproduced, distributed, or used without written permission.
-</footer>
-<hr>
-<!-- Banner  -->
-    <div class="banner"></div>
   
 <!-- Contact -->
 <!-- Banner -->
