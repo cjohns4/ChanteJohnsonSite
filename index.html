@@ -160,7 +160,57 @@ body {
     margin-left: 0.4rem; /* reduce spacing between tabs */
   }
 }
-    
+   .hero-title {
+  font-size: 3rem;
+  color: #880E4F;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+.hero-subtitle {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #5a1a3a;
+  line-height: 1.5;
+  max-width: 700px;
+  margin-bottom: 2rem;
+} 
+      .dropdown li a {
+    color: #333;
+    text-decoration: none;
+  }
+
+  /* ---- paste here ---- */
+  .profile-photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+    border: 4px solid #ffffff;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+  }
+.cta-button {
+  display: inline-block;
+  background-color: #880E4F;
+  color: #ffffff;
+  padding: 0.85rem 2rem;
+  border-radius: 30px;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.cta-button:hover,
+.cta-button:focus {
+  background-color: #5a0a33;
+  transform: translateY(-2px);
+  color: #ffffff;
+  outline: 3px solid #ffffff;
+  outline-offset: 2px;
+}
+</style>
 </style>
 </head>
 <body>
@@ -196,21 +246,25 @@ body {
  
 <!-- Bio Text -->
     <div style="flex: 1; min-width: 300px;">
-      <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Hi, I'm Chante' Johnson, an Instructional Designer and Learning Experience Designer with 7+ years of experience designing training for government, healthcare, and enterprise teams, backed by 20+ years in IT.</h1>
+      <h1 class="hero-title">Hi, I'm Chante' Johnson</h1>
+<p class="hero-subtitle">
+  Instructional Designer &amp; Learning Experience Designer with 7+ years designing
+  training for government, healthcare, and enterprise teams, backed by 20+ years in IT.
+</p>
       <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
         <p>I've trained more than 15,000 learners across two Pennsylvania state agencies, from statewide Microsoft 365 programs to the rollout of a new birth and death registration system for hospitals, clinics, and registrars. I design eLearning, microlearning, and live virtual training that turn complex systems into clear, confident, everyday skills.</p>
         <p>My technical background is what sets my work apart. I understand the systems I teach, so the learning I build is accurate, practical, and easy to apply on the job.</p>
         <p>This site is hand-coded and intentionally designed, the same way I approach every learning experience.</p>
        
         <h2>Let’s Create Learning That Resonates.</h2>
-        <p>Have a project in mind or looking for an instructional designer? I'd love to connect. Please <a href="mailto:chantej1@yahoo.com?subject=Inquiry from Portfolio Site">contact me</a> 
-          and let's talk about what we can build together.</p>
+      <p>Have a project in mind or looking for an instructional designer? I'd love to connect.</p>
+<a href="Contact.html" class="cta-button">Let's Talk</a>
       </div>
     </div>
 
 <!-- Profile Photo -->
   <div style="flex: 0 0 280px; text-align: center;">
-    <img src="807E669C-0CA1-461A-A62B-B02DECD0A6DC.png" alt="Chante Johnson in a black blazer posing in a professional setting" style="width: 100%; max-width: 280px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="807E669C-0CA1-461A-A62B-B02DECD0A6DC.png" alt="Chante' Johnson" class="profile-photo">
   </div>
 
 </div>
