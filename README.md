@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Chante' Johnson – Instructional Designer & Web Developer</title>
+ <meta name="description" content="Instructional Designer and Learning Experience Designer with 7+ years creating eLearning, microlearning, and virtual training for government, healthcare, and enterprise teams.">
  <style>
   html {
   scroll-behavior: smooth;
