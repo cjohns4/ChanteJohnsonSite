@@ -166,7 +166,52 @@ body {
   mix-blend-mode: multiply;  /* lets the gradient show through the light background */
   width: 70px;
 }
-    
+  /* Role / Tools / Deliverable tags */
+.project-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  max-width: 750px;
+  margin: 0.5rem auto 1rem;
+}
+.meta-tag {
+  background: #ffffff;
+  border: 1px solid #880E4F;
+  color: #333;
+  border-radius: 20px;
+  padding: 5px 14px;
+  font-size: 0.9rem;
+}
+.meta-tag strong { color: #880E4F; }
+
+/* Goal / outcome line */
+.project-goal {
+  max-width: 750px;
+  margin: 0 auto 1rem;
+  font-style: italic;
+  color: #333;
+}
+.project-goal strong { color: #880E4F; font-style: normal; }
+
+/* Preview thumbnails */
+.project-thumb {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  margin: 1rem auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+}
+
+/* Separate blog area */
+.blog-section {
+  margin-top: 4rem;
+  padding: 3rem 1rem;
+  background: rgba(255,255,255,0.6);
+  border-top: 4px solid #880E4F;
+  text-align: center;
+}  
 </style>
 </head>
 <body>
@@ -231,6 +276,12 @@ body {
     Created for Columbia College’s ECON 294, this module explores market structures with clarity and real-world relevance.
 Built using HTML, CSS, Bootstrap, and GitHub Pages, it features responsive layouts that make microeconomics approachable and engaging.
   </p>
+  <p class="project-goal"><strong>Goal:</strong> Built to help students tell monopolistic competition and oligopoly apart and apply both to real-world examples.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Instructional Design, Web Development</span>
+  <span class="meta-tag"><strong>Tools:</strong> HTML, CSS, Bootstrap, GitHub Pages</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Weekly Course Module</span>
+</div>
   <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
     <iframe 
       src="https://cjohns4.github.io/ECON-Module-Columbia/" 
@@ -271,6 +322,12 @@ Built using HTML, CSS, Bootstrap, and GitHub Pages, it features responsive layou
   project shows my approach to turning a complex, compliance-heavy system into clear
   and accessible guidance for first-time and experienced users alike.
 </p>
+  <p class="project-goal"><strong>Goal:</strong> Built to shorten onboarding time for new facility users and reduce data-entry and validation errors.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Instructional Design, Web Development</span>
+  <span class="meta-tag"><strong>Tools:</strong> HTML, CSS, GitHub Pages</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Role-Based Training Website</span>
+</div>
   <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
     <iframe 
       src="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" 
@@ -308,9 +365,12 @@ Built using HTML, CSS, Bootstrap, and GitHub Pages, it features responsive layou
     It includes a realistic scenario, a priority-sorting activity, a knowledge check and a
     downloadable job aid.
   </p>
-  <p style="font-size: 1rem; color: #444; margin: 0 auto 1.5rem;">
-    <strong>Tools:</strong> Articulate Rise 360, AI image generation, Microsoft Word
-  </p>
+  <p class="project-goal"><strong>Goal:</strong> Designed to reduce vague or misrouted Level 1 tickets and cut back-and-forth between employees and the service desk.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Instructional Design, Writing, Development</span>
+  <span class="meta-tag"><strong>Tools:</strong> Articulate Rise 360, AI Image Generation, Word</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Interactive eLearning + Job Aid</span>
+</div>
   <a class="cta-button" href="content/index.html" target="_blank">View the Course</a>
 </section> 
   
@@ -334,6 +394,12 @@ Built using HTML, CSS, Bootstrap, and GitHub Pages, it features responsive layou
   An approachable overview of how cable and FiOS networks operate—from core infrastructure to in-home connectivity.
 Built in Articulate Rise, this interactive guide blends clarity, curiosity, and a touch of creative spark to make technical concepts feel intuitive and human-centered.
   </p>
+  <p class="project-goal"><strong>Goal:</strong> Designed to help non-technical learners understand how their network works so they can describe issues and troubleshoot with confidence.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Instructional Design, Writing</span>
+  <span class="meta-tag"><strong>Tools:</strong> Articulate Rise 360</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Interactive Guide</span>
+</div>
   <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
     <iframe 
       src="cable-fi-os-network-overview-BaRx0W13.pdf" 
@@ -344,7 +410,7 @@ Built in Articulate Rise, this interactive guide blends clarity, curiosity, and 
     ></iframe>
     <p>
       <a href="cable-fi-os-network-overview-BaRx0W13.pdf" target="_blank" style="color: #0078D4; font-weight: bold; text-decoration: underline;">
-        📄 View or download the full presentation (PDF)
+        📄 View a PDF version of the Rise course
       </a>
     </p>
   </div>
@@ -370,6 +436,12 @@ Built in Articulate Rise, this interactive guide blends clarity, curiosity, and 
     A bite-sized module with big impact. I designed this microlearning experience to help teams build everyday habits that protect sensitive data—without the snooze factor.  
     Think interactive lessons, real-world scenarios, and quick knowledge checks, all wrapped in clarity and care.
   </p>
+  <p class="project-goal"><strong>Goal:</strong> Built to turn HIPAA requirements into everyday habits that lower the risk of privacy incidents.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Instructional Design, Writing</span>
+  <span class="meta-tag"><strong>Tools:</strong> PowerPoint</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Microlearning Module</span>
+</div>
   <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
     <iframe 
       src="cybersecurity.pdf" 
@@ -380,7 +452,7 @@ Built in Articulate Rise, this interactive guide blends clarity, curiosity, and 
     ></iframe>
     <p>
       <a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; font-weight: bold; text-decoration: underline;">
-        📄 View or download the full presentation (PDF)
+        📄 View the module (PDF, built in PowerPoint)
       </a>
     </p>
   </div>
@@ -407,6 +479,12 @@ Built in Articulate Rise, this interactive guide blends clarity, curiosity, and 
 This presentation explores how procurement policies can serve as strategic tools for community well-being.
 Crafted for public sector changemakers, it blends clear language, visual storytelling, and accessibility best practices to make equity tangible and actionable.
   </p>
+  <p class="project-goal"><strong>Goal:</strong> Created to help public sector leaders see procurement as a practical lever for community well-being.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Content Design, Visual Design</span>
+  <span class="meta-tag"><strong>Tools:</strong> PowerPoint</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Presentation Deck</span>
+</div>
   <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
     <iframe 
       src="Delegation of Procurement Authority.pdf" 
@@ -417,7 +495,7 @@ Crafted for public sector changemakers, it blends clear language, visual storyte
     ></iframe>
     <p>
       <a href="Delegation of Procurement Authority.pdf" target="_blank" style="color: #0078D4; font-weight: bold; text-decoration: underline;">
-        📄 View or download the full presentation (PDF)
+        📄 View the presentation (PDF, built in PowerPoint)
       </a>
     </p>
   </div>
@@ -444,6 +522,12 @@ Crafted for public sector changemakers, it blends clear language, visual storyte
 Inside, you’ll find proven strategies for speaking with clarity, managing performance anxiety, and forging genuine connections with listeners.
 Whether you're facilitating a meeting or commanding a stage, this guide is designed to help you show up with presence, intention, and authenticity.
   </p>
+  <p class="project-goal"><strong>Goal:</strong> Designed to help learners manage speaking anxiety and present with clarity and confidence.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Content Design, Visual Design</span>
+  <span class="meta-tag"><strong>Tools:</strong> PowerPoint</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Presentation Toolkit</span>
+</div>
   <div style="max-width: 800px; margin: 0 auto; padding: 1rem;">
     <iframe 
       src="YourThoughtsandFeelings.pdf" 
@@ -454,7 +538,7 @@ Whether you're facilitating a meeting or commanding a stage, this guide is desig
     ></iframe>
     <p>
       <a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; font-weight: bold; text-decoration: underline;">
-        📄 View or download the full presentation (PDF)
+        📄 View the toolkit (PDF, built in PowerPoint)
       </a>
     </p>
   </div>
@@ -479,6 +563,12 @@ Whether you're facilitating a meeting or commanding a stage, this guide is desig
   ">
     When a leak strikes, every second counts. In this short instructional video, I walk you through how to locate and safely turn off your home’s main water valve. Whether you're preparing for a repair or responding to an emergency, this guide helps you act quickly and confidently.
   </p>
+  <p class="project-goal"><strong>Goal:</strong> Designed so anyone can find and shut off their main water valve in minutes during a leak.</p>
+<div class="project-meta">
+  <span class="meta-tag"><strong>Role:</strong> Scripting, Narration, Video Production</span>
+  <span class="meta-tag"><strong>Tools:</strong> [Your video tool]</span>
+  <span class="meta-tag"><strong>Deliverable:</strong> Instructional Video</span>
+</div>
   <div style="max-width: 850px; margin: 0 auto; border-radius: 8px; overflow: hidden;">
   <iframe
     width="100%"
@@ -495,34 +585,30 @@ Whether you're facilitating a meeting or commanding a stage, this guide is desig
 
  <!-- Blog Section -->
 <section class="centered-text" style="margin-top: 3rem; text-align: center;">
-  <h3 style="
-    font-family: 'Georgia', serif;
-    font-size: 2rem;
-    color:#880E4F;
-    margin-bottom: 0.3rem;
-  ">
-    Blog
-  </h3>
-  <p style="
-    font-size: 1.2rem;
-    line-height: 1.8;
-    max-width: 750px;
-    margin: 0 auto 2rem;
-    color: #333;
-  ">
-   Reflections on digital literacy, accessibility, and the human-centered craft of designing for real-world learners.
-Blending poetic insight with practical guidance, this space explores what it means to create inclusive, intentional learning experiences—grounded in empathy, clarity, and care.
+ <div class="blog-section" id="blog">
+  <h2 style="font-family: 'Georgia', serif; font-size: 2rem; color: #880E4F; margin-bottom: 0.3rem;">
+    From the Blog: Chante's Hotspot
+  </h2>
+  <p style="font-size: 1.1rem; line-height: 1.7; max-width: 750px; margin: 0 auto 2rem; color: #333;">
+    Reflections on digital literacy, accessibility, and the human-centered craft of designing for real-world learners.
+    Blending poetic insight with practical guidance, this space explores what it means to create inclusive, intentional learning experiences grounded in empathy, clarity, and care.
   </p>
 
   <div style="max-width: 850px; margin: 0 auto; border-radius: 8px; overflow: hidden;">
-    <iframe src="https://chanteshotspot.blogspot.com/" width="100%" height="300" style="border:1px solid #ccc;"></iframe>
+    <iframe src="https://chanteshotspot.blogspot.com/" width="100%" height="300" style="border:1px solid #ccc;" title="Chante's Hotspot blog"></iframe>
   </div>
 
-  <p style="margin-top: 1rem;">
-    <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #8B0000; font-weight: bold; text-decoration: underline;">
-      🔗 Visit my blog
-    </a>
-  </p>
+  <a class="cta-button" href="https://chanteshotspot.blogspot.com/" target="_blank" style="
+    display: inline-block;
+    margin-top: 1.5rem;
+    background: #880E4F;
+    color: #ffffff;
+    padding: 12px 28px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-decoration: none;
+  ">Read the Blog</a>
+</div>
   </div>
   </section>
 
