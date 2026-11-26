@@ -1,393 +1,308 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
- <meta name="description" content="Instructional Designer and Learning Experience Designer with 7+ years creating eLearning, microlearning, and virtual training for government, healthcare, and enterprise teams.">
- <style>
-  html {
-  scroll-behavior: smooth;
-  font-size: 100%; /* Equivalent to 16px on most browsers */
-}
+# Chante' Johnson Portfolio
 
-body {
-  padding-top: 80px;
-  font-size: 1.125rem; /* 18px */
-  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.7;
-  color: #333;
-}
-   h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
-  line-height: 1.3;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-}
+## Instructional Designer | Learning Experience Designer | Technical Writer | IT Professional
 
-h1 { font-size: 2.5rem; }   /* ~40px */
-h2 { font-size: 2rem; }     /* ~32px */
-h3 { font-size: 1.75rem; }  /* ~28px */
-h4 { font-size: 1.5rem; }   /* ~24px */
-h5 { font-size: 1.25rem; }  /* ~20px */
-h6 { font-size: 1.125rem; } /* ~18px */
-p {
-  font-size: 1.125rem;
-  margin-bottom: 1rem;
-}
-  .banner {
-    width: 100%;
-    height: 300px;
-    background-image: url('backgro.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
+Welcome to my professional portfolio.
 
-  .top-nav {
-    width: 100%;
-    background-color: #1a1a1a;
-    padding: 1rem 2rem;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  }
+I specialize in designing engaging learning experiences that transform complex information into clear, practical, and accessible training. With more than 20 years of experience in Information Technology and 7+ years in instructional design, I create learning solutions that bridge the gap between technology and human understanding.
 
-  .nav-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
+### Portfolio Website
+🌐 https://cjohns4.github.io/ChanteJohnsonSite/
 
-  .brand {
-    color: #f5f5f5;
-    font-size: 1.5rem; /* 24px */
-    font-weight: 700;
-    letter-spacing: 0.5px;
-  }
+---
 
-  .nav-links {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    align-items: center;
-  }
+## About Me
 
-  .nav-links li {
-    margin-left: 2rem;
-    position: relative;
-  }
+Hello, I'm **Chante' Johnson**.
 
-  .nav-links a {
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 1.125rem; /* 18px */
-    font-weight: 600;
-    transition: color 0.3s ease;
-  }
+I am an Instructional Designer and Learning Experience Designer with experience creating training solutions for government agencies, healthcare organizations, higher education, and enterprise environments.
 
-  .nav-links a:hover,
-  .nav-links a:focus {
-    color: #00aaff;
-    text-decoration: underline;
-    outline: none;
-  }
+Throughout my career, I have:
 
-  .menu-icon {
-    list-style: none;
-  }
+- Trained more than 15,000 learners
+- Developed statewide Microsoft 365 training initiatives
+- Supported implementation and onboarding for vital records systems
+- Created eLearning, microlearning, instructor-led, and virtual training programs
+- Designed training materials, job aids, presentations, videos, and learning websites
+- Combined instructional design expertise with extensive technical knowledge gained through two decades in IT
 
-  .menu-icon button {
-    background: none;
-    border: none;
-    font-size: 1.5rem;
-    cursor: pointer;
-    color: #ffffff;
-  }
+My technical background allows me to understand the systems I teach, creating learning experiences that are accurate, practical, and immediately applicable in the workplace.
 
-  .dropdown {
-    display: none;
-    position: absolute;
-    top: 2rem;
-    right: 0;
-    background-color: white;
-    border: 1px solid #ccc;
-    list-style: none;
-    padding: 0.5rem;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    z-index: 1001;
-  }
+---
 
-  .dropdown li {
-    margin: 0.5rem 0;
-  }
+## Core Competencies
 
-  .dropdown li a {
-    color: #333;
-    text-decoration: none;
-  }
-  @media (max-width: 600px) {
-  iframe {
-    height: 300px;
-  }
-} 
-@media (max-width: 600px) {
-  .nav-links a {
-    font-size: 0.85rem; /* ≈13.6px */
-  }
+### Instructional Design
+- Learning Experience Design (LXD)
+- Adult Learning Theory
+- Curriculum Development
+- Scenario-Based Learning
+- Microlearning Design
+- Instructor-Led Training (ILT)
+- Virtual Instructor-Led Training (VILT)
+- Learning Assessment Design
+- Storyboarding
+- Job Aid Development
 
-  .dropdown li a {
-    font-size: 0.85rem;
-  }
+### Technical Skills
+- HTML
+- CSS
+- Bootstrap
+- GitHub Pages
+- Microsoft 365
+- SharePoint
+- Microsoft Teams
+- Learning Management Systems (LMS)
+- Technical Troubleshooting
+- Accessibility Best Practices
 
-  .nav-links li {
-    margin-left: 1rem; /* reduce spacing between tabs */
-  }
-}
+### eLearning Development
+- Articulate Rise 360
+- PowerPoint
+- Canva
+- AI-Assisted Content Creation
+- Interactive Learning Experiences
+- Multimedia Development
 
-</style>
-</head>
-<body>
+### Technical Writing
+- User Guides
+- Standard Operating Procedures (SOPs)
+- Knowledge Base Articles
+- Training Documentation
+- Job Aids
+- Process Documentation
 
-<!-- Navigation -->
-<nav class="top-nav" role="navigation" aria-label="Main navigation">
-  <div class="nav-container">
-       <ul class="nav-links">
-      <li><a href="index.html">About</a></li>
-      <li><a href="Projects.html">Projects</a></li>
-      <li><a href="Contact.html">Contact</a></li>
-      <li class="menu-icon">
-        <button onclick="toggleMenu()">☰</button>
-        <ul class="dropdown" id="dropdownMenu">
-          <li><a href="index.html">About</a></li>
-          <li><a href="Projects.html">Projects</a></li>
-          <li><a href="Contact.html">Contact</a></li>
-         
-        </ul>
-      </li>
-    </ul>
-  </div>
-</nav>
+---
 
-<!-- Banner  -->
-    <div class="banner"></div>
+# Featured Projects
 
-<!-- Main Content -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; padding: 3rem 2rem; max-width: 1200px; margin: auto; gap: 2rem;">
+---
 
-    <!-- Bio Text -->
-      <div style="flex: 1; min-width: 300px;">
-      <h1 style="font-size: 2.5rem; color: #880E4F; margin-bottom: 1rem;">Hi, I'm Chante' Johnson, an Instructional Designer and Learning Experience Designer with 7+ years of experience designing training for government, healthcare, and enterprise teams, backed by 20+ years in IT.</h1>
-      <div style="font-size: 1.25rem; line-height: 1.8; color: #1a1a1a;">
-        <p>I've trained more than 15,000 learners across two Pennsylvania state agencies, from statewide Microsoft 365 programs to the rollout of a new birth and death registration system for hospitals, clinics, and registrars. I design eLearning, microlearning, and live virtual training that turn complex systems into clear, confident, everyday skills.</p>
-        <p>My technical background is what sets my work apart. I understand the systems I teach, so the learning I build is accurate, practical, and easy to apply on the job.</p>
-        <p>This site is hand-coded and intentionally designed, the same way I approach every learning experience.</p>
-           
-        <h2>Let’s Create Learning That Resonates.</h2>
-        <p>Have a project in mind or looking for an instructional designer? I'd love to connect. Please <a href="mailto:chantej1@yahoo.com?subject=Inquiry from Portfolio Site">contact me</a> 
-          and let's talk about what we can build together.</p>
-      </div>
-    </div>
+## Microeconomics in Motion
 
-  <!-- Profile Photo -->
-  <div style="flex: 0 0 280px; text-align: center;">
-    <img src="807E669C-0CA1-461A-A62B-B02DECD0A6DC.png" alt="Chante Johnson in a black blazer posing in a professional setting" style="width: 100%; max-width: 280px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-  </div>
+### Overview
+Created for Columbia College's ECON 294 course, this learning module explores market structures through real-world examples and responsive web design.
 
-</div>
-<footer style="text-align: center; padding: 2rem;">
-  <img src="logo.png" alt="Chante' logo" style="height: 70px;">
-  <p style="font-size: 0.7rem; color: #777; margin-top: 0.5rem;">© 2026 Chante' Johnson. All rights reserved.</p>
-</footer>
-<!-- Banner  -->
-   <div class="banner"></div>
+### Goal
+Help students differentiate monopolistic competition and oligopoly while applying concepts to real-world situations.
 
-<!-- Projects Section Header -->
-<section>
-  <div style="max-width: 800px; margin: 0 auto; text-align: center; padding: 2rem 1rem;">
-    <h1 style="margin-bottom: 0.5rem;">Project Highlights</h1>
-    <p style="font-size: 1.15rem; line-height: 1.8; margin-bottom: 2rem;">
-      Each project reflects my commitment to inclusive, learner-centered design—where clarity, strategy, and storytelling come together to create meaningful experiences.
-    </p>
-    <hr style="width: 60%; margin: 0 auto; border: none; border-top: 1px solid #ddd;">
-  </div>
-</section>
+### Role
+Instructional Design, Web Development
 
-<!-- Cybersecurity Module -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3>Cybersecurity & HIPAA in the Workplace Module</h3>
-    <p>Cybersecurity & HIPAA in the Workplace is a microlearning module I designed to help employees build everyday habits that protect sensitive data...</p>
-    <hr style="width: 60%; margin: 0 auto; border: none; border-top: 1px solid #ddd;">
-  </div>
-  <div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="cybersecurity.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="cybersecurity.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full presentation (PDF)
-      </a>
-    </p>
-  </div>
-</section>
+### Tools
+- HTML
+- CSS
+- Bootstrap
+- GitHub Pages
 
-<!-- Health Equity Presentation -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3>Using Purchasing Power to Promote Health Equity</h3>
-    <p>This presentation explores how procurement policies can be used as strategic tools to advance health equity...</p>
-  </div>
-  <div style="max-width: 600px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="Delegation of Procurement Authority.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="Delegation of Procurement Authority.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full presentation (PDF)
-      </a>
-    </p>
-  </div>
-</section>
+### Deliverable
+Weekly Course Module
 
-<!-- Public Speaking -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3 id="public-speaking-title" style="font-size: 1.5rem; margin-top: 2rem;">Ways to Improve Public Speaking</h3>
-    <p>Public speaking hasn’t always come naturally to me—but over time, I’ve learned how structure, intention, and empathy can transform a message...</p>
-  </div>
-  <div style="max-width: 600px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="YourThoughtsandFeelings.pdf" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="YourThoughtsandFeelings.pdf" target="_blank" style="color: #0078D4; text-decoration: none;">
-        📄 View or download the full presentation (PDF)
-      </a>
-    </p>
-  </div>
-</section>
+🔗 Project:
+https://cjohns4.github.io/ECON-Module-Columbia/
 
-<!-- Healthcare Training Module -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3>Healthcare Training Module</h3>
-    <p>I built this onboarding guide from scratch using HTML, CSS, and GitHub to support professionals across hospitals...</p>
-  </div>
-  <div style="max-width: 600px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="https://cjohns4.github.io/chante-healthcare-training/Welcome.html" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🔗 eVitals Navigator – Role-Based Healthcare Onboarding
-      </a>
-    </p>
-  </div>
-</section>
+---
 
-<!-- Microeconomics Module -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3>Microeconomics Module</h3>
-    <p>As a sample project for Columbia College’s ECON 294: Microeconomics, I built this interactive module...</p>
-  </div>
-  <div style="max-width: 600px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="https://cjohns4.github.io/ECON-Module-Columbia/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="https://cjohns4.github.io/ECON-Module-Columbia/" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🔗 Microeconomics for Columbia College
-      </a>
-    </p>
-  </div>
-</section>
+## eVitals Navigator Sample Project
 
-<!-- Blog -->
-<section>
-  <div style="max-width: 600px; margin: 0 auto; text-align: right; padding: 2rem 1rem;">
-    <h3>Blog</h3>
-    <p>This is where I share my thoughts on digital literacy, accessibility, and what it really means to design for real-world learners...</p>
-  </div>
-  <div style="max-width: 600px; margin: 0 auto; text-align: left; padding: 1rem;">
-    <iframe src="https://chanteshotspot.blogspot.com/" width="100%" height="200" style="border:1px solid #ccc; border-radius:8px; margin-bottom:2rem;"></iframe>
-    <p>
-      <a href="https://chanteshotspot.blogspot.com/" target="_blank" style="color: #0078D4; text-decoration: none;">
-        🔗 Visit my blog
-      </a>
-    </p>
-  </div>
-  <hr style="border: none; border-top: 2px solid #D35400; margin: 3rem 0;">
-</section>
-<footer style="text-align: center; padding: 2rem;">
-  <img src="logo.png" alt="Chante' logo" style="height: 70px;">
-  <p style="font-size: 0.7rem; color: #777; margin-top: 0.5rem;">© 2026 Chante' Johnson. All rights reserved.</p>
-</footer>
-  <hr>
-  
+### Overview
+A role-based healthcare onboarding experience designed to demonstrate how training can support users of a vital records system.
 
-  
-<!-- Contact -->
-<!-- Banner -->
-<div class="banner"></div>
+### Goal
+Reduce onboarding time and data-entry errors for healthcare organizations and government agencies.
 
-<!-- Contact Section -->
-<section style="padding:2rem; background-color:#f9f9f9; border-radius:8px; max-width:700px; margin:auto;">
+### Role
+Instructional Design, Web Development
 
-  <h1 style="color:#880E4F; border-bottom:2px solid #880E4F; padding-bottom:0.3rem; margin-bottom:1.5rem;">
-    📬 Contact 
-  </h1>
+### Tools
+- HTML
+- CSS
+- GitHub Pages
 
-  <p style="font-size:0.95rem; color:#555; margin-bottom:1rem;">
-    <em>* indicates required field</em>
-  </p>
+### Deliverable
+Role-Based Training Website
 
-  <form action="https://formspree.io/f/mvgbkdok" method="POST" style="max-width:600px;">
-    <label for="name" style="display:block; margin-bottom:0.5rem;">Name <span style="color:red;">*</span></label>
-    <input type="text" id="name" name="name" required style="width:100%; padding:0.5rem; margin-bottom:1rem;">
+🔗 Project:
+https://cjohns4.github.io/chante-healthcare-training/Welcome.html
 
-    <label for="email" style="display:block; margin-bottom:0.5rem;">Email <span style="color:red;">*</span></label>
-    <input type="email" id="email" name="email" required style="width:100%; padding:0.5rem; margin-bottom:1rem;">
+---
 
-    <label for="message" style="display:block; margin-bottom:0.5rem;">How can I help you? <span style="color:red;">*</span></label>
-    <textarea id="message" name="message" rows="5" required style="width:100%; padding:0.5rem; margin-bottom:1rem;"></textarea>
+## Get Help Faster: Writing an IT Support Ticket That Gets Resolved
 
-    <div class="g-recaptcha" data-sitekey="6LcS4LcrAAAAAIh0WPUH74KlurMc9rbNIM893vcK"></div>
+### Overview
+An interactive Articulate Rise course designed to help employees submit better support tickets by clearly communicating technical issues.
 
-    <button type="submit" style="background-color:#0078D4; color:#fff; padding:0.75rem 1.5rem; border:none; border-radius:4px; cursor:pointer;">
-      Submit
-    </button>
-  </form>
+### Goal
+Reduce vague or improperly routed Level 1 support tickets.
 
-  <ul style="list-style:none; padding-left:0; font-size:1.1rem; margin-top:2rem;">
-  
-      <strong>LinkedIn:</strong>
-      <a href="https://www.linkedin.com/in/chante-johnson-140171309/" target="_blank" style="color:#880E4F;">
-        linkedin.com/in/chante-johnson-140171309
-      </a>
-    </li>
+### Role
+Instructional Design
+Learning Development
+Technical Writing
 
-    <li style="margin-top:1rem;">
-      <strong>Location:</strong> Austin–Killeen, TX area
-    </li>
-  </ul>
+### Tools
+- Articulate Rise 360
+- Microsoft Word
+- AI Image Generation
 
-</section>
-<footer style="text-align: center; padding: 2rem;">
-  <img src="logo.png" alt="Chante' logo" style="height: 70px;">
-  <p style="font-size: 0.7rem; color: #777; margin-top: 0.5rem;">© 2026 Chante' Johnson. All rights reserved.</p>
-</footer>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+### Deliverable
+Interactive eLearning Course
+Downloadable Job Aid
 
-<script>
-  function toggleMenu() {
-    const menu = document.getElementById("dropdownMenu");
-    menu.style.display = menu.style.display === "block" ? "none" : "block";
-  }
+🔗 Course:
+https://cjohns4.github.io/ChanteJohnsonSite/content/index.html
 
-  window.onclick = function(event) {
-    if (!event.target.matches('.menu-icon button')) {
-      const dropdown = document.getElementById("dropdownMenu");
-      if (dropdown && dropdown.style.display === "block") {
-        dropdown.style.display = "none";
-      }
-    }
-  };
-</script>
+---
 
-</body>
-</html>
+## Cable & FiOS Network Overview
+
+### Overview
+An interactive guide introducing learners to cable and fiber optic network infrastructure, home internet connectivity, and troubleshooting basics.
+
+### Goal
+Help non-technical audiences understand network fundamentals and communicate technical issues more effectively.
+
+### Role
+Instructional Design
+Technical Writing
+
+### Tools
+- Articulate Rise 360
+
+### Deliverable
+Interactive Learning Guide
+
+---
+
+## Cybersecurity & HIPAA in the Workplace
+
+### Overview
+A concise microlearning experience focused on everyday security habits and HIPAA compliance.
+
+### Goal
+Turn compliance requirements into practical workplace behaviors.
+
+### Role
+Instructional Design
+Technical Writing
+
+### Tools
+- Articulate Rise 360
+
+### Deliverable
+Microlearning Module
+
+---
+
+## Using Purchasing Power to Promote Health Equity
+
+### Overview
+A presentation exploring how procurement practices can advance community health outcomes and equity initiatives.
+
+### Goal
+Help public sector leaders understand procurement as a strategic tool for positive community impact.
+
+### Role
+Content Design
+Visual Design
+
+### Tools
+- Microsoft PowerPoint
+
+### Deliverable
+Presentation Deck
+
+---
+
+## Public Speaking
+
+### Overview
+A presentation focused on developing confidence, managing speaking anxiety, and building audience engagement skills.
+
+### Goal
+Help learners communicate clearly and confidently in professional settings.
+
+### Role
+Content Design
+Visual Design
+
+### Tools
+- Microsoft PowerPoint
+
+### Deliverable
+9-Slide Presentation
+
+---
+
+## Video Project: How to Shut Off Your Water Valve
+
+### Overview
+An instructional video demonstrating how homeowners can quickly locate and shut off their main water valve during emergencies.
+
+### Goal
+Provide practical guidance that can prevent property damage during plumbing incidents.
+
+### Role
+- Script Writing
+- Narration
+- Video Production
+
+### Tools
+- Canva
+
+### Deliverable
+Instructional Video
+
+📺 Watch:
+https://www.youtube.com/watch?v=4eWzxcPQTHk
+
+---
+
+# Blog
+
+## Chante's Hotspot
+
+My blog explores:
+
+- Digital Literacy
+- Accessibility
+- Learning Design
+- Technology
+- Human-Centered Education
+- Professional Development
+
+📝 Blog:
+https://chanteshotspot.blogspot.com/
+
+---
+
+# Education
+
+- Master of Science, Learning Design & Technology
+- Bachelor of Science, Computer Science
+- Associate Degree, Information Technology
+
+---
+
+# Let's Connect
+
+### LinkedIn
+https://www.linkedin.com/in/chante-johnson-140171309/
+
+### Portfolio Website
+https://cjohns4.github.io/ChanteJohnsonSite/
+
+---
+
+## Philosophy
+
+Technology is most effective when people understand how to use it confidently.
+
+My work combines instructional design, technical expertise, creativity, accessibility, and human-centered learning principles to help learners succeed in real-world environments.
+
+---
+
+© 2026 Chante' Johnson. All Rights Reserved.
+
