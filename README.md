@@ -129,14 +129,25 @@ https://cjohns4.github.io/chante-healthcare-training/Welcome.html
 
 ---
 
-### Mastering File Collaboration: Teams & SharePoint Integration Essentials
-An interactive Articulate Rise course that shows employees how Microsoft Teams and SharePoint work together: where to store files, how to share and co-author documents, and how to keep everyone working from the latest version.
+## Mastering File Collaboration: Teams & SharePoint Integration Essentials
 
-- **Goal:** Reduce duplicate files, version confusion and sharing errors
-- **Role:** Instructional Design, Writing, Development
-- **Tools:** Articulate Rise 360
-- **Deliverable:** Interactive eLearning
-- **View it:** [Launch the course](https://cjohns4.github.io/ChanteJohnsonSite/SharePoint/index.html)
+### Overview
+An interactive Articulate Rise course that shows employees how Microsoft Teams and SharePoint work together, including where to store files, how to share and co-author documents, and how to keep everyone working from the latest version.
+
+### Goal
+Reduce duplicate files, version confusion and sharing errors by building confident, consistent collaboration habits.
+
+### Role
+Instructional Design, Writing, Development
+
+### Tools
+- Articulate Rise 360
+
+### Deliverable
+Interactive eLearning
+
+🔗 Project:
+https://cjohns4.github.io/ChanteJohnsonSite/SharePoint/index.html
 
  --- 
 
