@@ -166,24 +166,29 @@ body {
   mix-blend-mode: multiply;  /* lets the gradient show through the light background */
   width: 70px;
 }
-  /* Role / Tools / Deliverable tags */
+/* Role / Tools / Deliverable tags */
 .project-meta {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 8px;
   max-width: 750px;
-  margin: 0.5rem auto 1rem;
+  margin: 0.25rem auto 1.5rem;
+  font-size: 0.95rem;
+  color: #444;
+  line-height: 1.8;
 }
 .meta-tag {
-  background: #ffffff;
-  border: 1px solid #880E4F;
-  color: #333;
-  border-radius: 20px;
-  padding: 5px 14px;
-  font-size: 0.9rem;
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0 14px;
 }
-.meta-tag strong { color: #880E4F; }
+.meta-tag + .meta-tag {
+  border-left: 2px solid #880E4F;
+}
+.meta-tag strong {
+  color: #880E4F;
+}
 
 /* Goal / outcome line */
 .project-goal {
